@@ -45,9 +45,7 @@ news.eternal-september.org
 . Click on *View Settings for this account*:
 . Click on *Server Settings*:
 . Change Security Settings to *SSL/TLS*:
-. Click on *Always request authentication when connecting to this
-server*
-+
+. Click on *Always request authentication when connecting to this server*
 . Click *OK* at the bottom of the window:
 . Click Click *Manage newsgroup subscriptions*:
 . Fill in your userid and password for eternal-september and click save
@@ -75,9 +73,7 @@ You should now see a lot of nonsense articles. These are articles from people wh
 
 . On the menu bar, click on *Write*:
 . Write a simple title and message.
-+
-On the menu, click *Send*:
-
+. On the menu, click *Send*:
 
 == Summary:
 

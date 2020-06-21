@@ -4,7 +4,7 @@
 
 # MAIN file (mandatory)
 #
-MAIN="EXERCISE-template.adoc"
+MAIN="adoc/EXERCISE-template.adoc"
 
 #----- optional parameters -----
 
@@ -23,7 +23,7 @@ ADOC_POST="yes"
 # Stylesheet directory
 #
 #STYLEROOT="/usr/share/xml/docbook/stylesheet/upgrade"
-STYLEROOT="daps_themes/test"
+STYLEROOT="stylesheets/xsl"
 
 # XSLT Parameters for customizing the stylesheets
 #
