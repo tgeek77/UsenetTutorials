@@ -77,13 +77,9 @@ You should now see a lot of nonsense articles. These are articles from people wh
 . Write a simple title and message.
 +
 On the menu, click *Send*:
-+
 
 
-[cols="",]
-|===
-a|
-Summary:
+== Summary:
 
 In this tutorial, you have signed up for your first Usenet account, set up Thunderbird for Usenet, read a few article, and posted a test article. You now have all of the tools to be dangerous.
 
@@ -94,7 +90,5 @@ Others are specific to Newsgroups such as don’t top post. You can read about t
 later.
 
 http://linux.sgms-centre.com/misc/netiquette.php
-
-|===
 
 (End of Exercise)
