@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<?asciidoc-toc?><?asciidoc-numbered?><article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Getting Started with Usenet</title>
+<date>2020-06-21</date>
+<author>
+<personname>
+<firstname>Jason</firstname>
+<surname>Evans</surname>
+</personname>
+<email>jsevans@big-8.org</email>
+</author>
+<authorinitials>JE</authorinitials>
+</info>
+<section xml:id="_introduction">
+<title>Introduction:</title>
+<para>A lot of online tutorials talk about how to use Usenet for Piracy but very few talk about Usenet’s true legacy. Usenet is the original way to talk have long form discussions on the internet. It’s use diminished over time as new forums such as Facebook and Twitter came around but it never became useless. Usenet’s greatest strength comes from the fact that it is completely decentralized. If every Usenet server except one were to go down, that wouldn’t be the end of Usenet. However if Facebook is down, then it’s down for everyone and when it’s gone, it will probably be gone forever.</para>
+<para>Usenet is simple. It is based on plain text, but it’s no more difficult to use than email.</para>
+</section>
+<section xml:id="_task_1_get_a_usenet_account">
+<title>Task 1: <emphasis role="strong">Get a Usenet Account</emphasis></title>
+<orderedlist numeration="arabic">
+<listitem>
+<para>Open your browser and go to the following website:</para>
+<para><link xl:href="http://www.eternal-september.org/RegisterNewsAccount.php">http://www.eternal-september.org/RegisterNewsAccount.php</link></para>
+<para>Before you continue, make sure to take a look at the Terms of use. This isn’t a bunch of legaleze, but they are guidelines on what is permitted. It’s OK if you don’t understand everything but most people will get the gist of what’s being said.</para>
+<para><link xl:href="http://www.eternal-september.org/index.php?showpage=terms">http://www.eternal-september.org/index.php?showpage=terms</link></para>
+</listitem>
+<listitem>
+<para>Fill out the information in the form. The server will send a new email in <emphasis role="strong">plain text</emphasis>. No, this is not ideal, but you can always come back and change the password later. Always use a new password when signing up to a new website so it can’t be used elsewhere if it is found.</para>
+</listitem>
+<listitem>
+<para>Put your userid and password someplace safe. You will also need to know that the server address that you will be using is:</para>
+<para>news.eternal-september.org</para>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_task_2_set_up_thunderbird">
+<title>Task 2: Set up <emphasis role="strong">Thunderbird</emphasis></title>
+<orderedlist numeration="arabic">
+<listitem>
+<para>Install Thunderbird if you haven’t already. If you are using Windows or Mac, you can install it from the following URL, if you are using Linux, you can install it with your distribution’s package manager:</para>
+<para><link xl:href="https://www.thunderbird.net/en-US/thunderbird/all/">https://www.thunderbird.net/en-US/thunderbird/all/</link></para>
+</listitem>
+<listitem>
+<para>The first time that you run Thunderbird, you will be prompted with a screen that says, “Set Up an Existing Email Account”. Click the <emphasis role="strong">Cancel</emphasis> button to continue. You can use Thunderbird for email also if you want,
+but we will focus on Usenet:</para>
+</listitem>
+<listitem>
+<para>Click on <emphasis role="strong">Newsgroups</emphasis>:</para>
+</listitem>
+<listitem>
+<para>Fill in Your Name and Email Address, then click <emphasis role="strong">Next</emphasis>:</para>
+<para>These do <emphasis role="strong">not</emphasis> have to be real. You can make as many profiles as you want. Each profile is called a Nym in Usenet terminology. If you want people to be able to communicate with you outside of Usenet, then it may be good to invest the time to create a spare email account.</para>
+</listitem>
+<listitem>
+<para>Fill in your Newsgroup Server:</para>
+<screen>news.eternal-september.org</screen>
+</listitem>
+<listitem>
+<para>Choose an Account Name or leave it as the default</para>
+</listitem>
+<listitem>
+<para>Click <emphasis role="strong">Finish</emphasis>:</para>
+</listitem>
+<listitem>
+<para>Click on <emphasis role="strong">View Settings for this account</emphasis>:</para>
+</listitem>
+<listitem>
+<para>Click on <emphasis role="strong">Server Settings</emphasis>:</para>
+</listitem>
+<listitem>
+<para>Change Security Settings to <emphasis role="strong">SSL/TLS</emphasis>:</para>
+</listitem>
+<listitem>
+<para>Click on <emphasis role="strong">Always request authentication when connecting to this
+server</emphasis></para>
+</listitem>
+<listitem>
+<para>Click <emphasis role="strong">OK</emphasis> at the bottom of the window:</para>
+</listitem>
+<listitem>
+<para>Click Click <emphasis role="strong">Manage newsgroup subscriptions</emphasis>:</para>
+</listitem>
+<listitem>
+<para>Fill in your userid and password for eternal-september and click save
+password if you want:</para>
+<para>If you are not using eternal-september, use the information from your
+Usenet provider.</para>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_task_3_subscribe_to_your_first_newsgroups">
+<title>Task 3: <emphasis role="strong">Subscribe to your first newsgroups</emphasis></title>
+<orderedlist numeration="arabic">
+<listitem>
+<para>In the search window, search for eternal-september. The news server contains a few newsgroups that are not accessible to other providers. These all begin with “eternal-september.*”:</para>
+</listitem>
+<listitem>
+<para>Click on the box next to <emphasis role="strong">eternal-september.test</emphasis> or click <emphasis role="strong">Subscribe</emphasis>
+then <emphasis role="strong">OK</emphasis>.</para>
+</listitem>
+<listitem>
+<para>Click on the Arrow next to <emphasis role="strong">news.eternal-september.org</emphasis> on the left:</para>
+<para>Thunderbird always minimizes the names of newsgroups to save space.</para>
+</listitem>
+<listitem>
+<para>Click on the first newsgroup which is <emphasis role="strong">eternal-september.test</emphasis>:</para>
+<para>You will be prompted for how many headers to download. If you have a very slow connection, you can just download a few. That’s not a restriction that many people still have.</para>
+<para>You should now see a lot of nonsense articles. These are articles from people who are doing exactly what you are doing. They are testing out their newsreaders to make sure that they can post to Usenet.</para>
+</listitem>
+<listitem>
+<para>Click on a few articles from other people and read them. Don’t expect them to make any sense since this is a test newsgroup. It’s good to understand what a newsgroup article looks like like.<?asciidoc-br?></para>
+</listitem>
+</orderedlist>
+</section>
+<section xml:id="_task_4_post_to_your_first_newsgroups">
+<title>Task 4: <emphasis role="strong">Post to your first newsgroups</emphasis></title>
+<orderedlist numeration="arabic">
+<listitem>
+<para>On the menu bar, click on <emphasis role="strong">Write</emphasis>:</para>
+</listitem>
+<listitem>
+<para>Write a simple title and message.</para>
+<para>On the menu, click <emphasis role="strong">Send</emphasis>:</para>
+</listitem>
+</orderedlist>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="1">
+<colspec colname="col_1" colwidth="100*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><para>Summary:</para>
+<para>In this tutorial, you have signed up for your first Usenet account, set up Thunderbird for Usenet, read a few article, and posted a test article. You now have all of the tools to be dangerous.</para>
+<para>A word about Usenet Netiquette:</para>
+<para>Before there were Codes of Conduct, there was Netiquette. Netiquette is a set of common sense rules for behaving online. Most are common sense: don’t be a jerk to people, don’t troll, don’t feed the trolls, and don’t spam.
+Others are specific to Newsgroups such as don’t top post. You can read about this in a little more detail below. Nobody wants to join a new community and be <emphasis>that newbie</emphasis>. It’s always best to read first, reply
+later.</para>
+<para><link xl:href="http://linux.sgms-centre.com/misc/netiquette.php">http://linux.sgms-centre.com/misc/netiquette.php</link></para></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<para>(End of Exercise)</para>
+</section>
+</article>

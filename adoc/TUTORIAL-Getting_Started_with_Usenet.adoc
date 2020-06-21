@@ -5,15 +5,10 @@ Getting Started with Usenet
 :Date:      21 June 2020
 :Revision:  1.0
 
-[cols="",]
-|===
-a|
 == Introduction:
-
 A lot of online tutorials talk about how to use Usenet for Piracy but very few talk about Usenet’s true legacy. Usenet is the original way to talk have long form discussions on the internet. It’s use diminished over time as new forums such as Facebook and Twitter came around but it never became useless. Usenet’s greatest strength comes from the fact that it is completely decentralized. If every Usenet server except one were to go down, that wouldn't be the end of Usenet. However if Facebook is down, then it’s down for everyone and when it’s gone, it will probably be gone forever.
 
 Usenet is simple. It is based on plain text, but it’s no more difficult to use than email.
-|===
 
 == Task 1: *Get a Usenet Account*
 
@@ -51,7 +46,7 @@ news.eternal-september.org
 . Click on *Server Settings*:
 . Change Security Settings to *SSL/TLS*:
 . Click on *Always request authentication when connecting to this
-server*:
+server*
 +
 . Click *OK* at the bottom of the window:
 . Click Click *Manage newsgroup subscriptions*:
@@ -82,6 +77,8 @@ You should now see a lot of nonsense articles. These are articles from people wh
 . Write a simple title and message.
 +
 On the menu, click *Send*:
++
+
 
 [cols="",]
 |===

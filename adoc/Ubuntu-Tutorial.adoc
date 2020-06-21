@@ -1,0 +1,43 @@
+[cols="",]
+|=======================================================================
+a|
+[.lead]
+Description:
+
+In this section you will create an introduction.
+|=======================================================================
+
+== Task 1: Task One
+
+. Step 1 Finish the following task:
++
+ Perform this task
+
+. Step 2 Enter the following Number:
++
+``*bold monospace*``
+
+. Step 3 Go to this url:
++
+`_https://asciidoc.org_`
+
+== Task 2: Task Two
+
+. Step 1
+. Step 2
+. Step 3
+
+.optional title
+NOTE: This is an example
+      single-paragraph note.
+
+WARNING: Warning.
+
+CAUTION: Caution.
+
+[cols="",]
+|=======================================================================
+a|
+Description:
+In this section you will created a summary.
+|=======================================================================

@@ -1,0 +1,53 @@
+[cols="",]
+|=======================================================================
+a|
+[.lead]
+Description:
+
+In this you will create a new onion service using docker-compose on Arch Linux.
+
+.Prerequisites:
+* A server or VM with Arch or Manjaro Linux installed
+* An internet connection
+|=======================================================================
+
+== Task 1: Install the required packages
+
+. Open a command line terminal. Run the following command to install the packages required create your onion service:
++
+ sudo pacman -Syu docker docker-compose git
++
+Docker and docker-compose will give you the framework needed to run the onion service in containers. Git is used to download the pre-written templates.
+
+== Task 2: Download the templates
+
+. Run the following commands to download the templates from Github in the _git_ directory:
++
+ mkdir ~/git
+ cd ~/git
+ git clone https://github.com/tgeek77/compose-scripts-tor.git
+ cd ~/git/compose-scripts-tor
+
+== Task 3: Configure Docker
+
+. Run the following commands to enable and start Docker:
++
+ sudo systemctl --now enable docker
++
+. Step 2
+. Step 3
+
+.optional title
+NOTE: This is an example
+      single-paragraph note.
+
+WARNING: Warning.
+
+CAUTION: Caution.
+
+[cols="",]
+|=======================================================================
+a|
+Description:
+In this section you will created a summary.
+|=======================================================================

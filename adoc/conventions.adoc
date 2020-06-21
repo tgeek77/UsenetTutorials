@@ -1,0 +1,13 @@
+The following typographical conventions are used in this document:
+[width="100%",options="header"]
+|====================
+| Example | AsciiDoc Markup | Use
+| *Bold* | ** |  Represents buttons you click, or text or options that you should click/select/type in a GUI.
+| *_Bold Italics_* | * __ * |  Represents the name of a Task or in the context of what is seen on the screen, the screen name, a tab name, column
+name, field name, etc.
+| Option > Option > Option |  |  Represents a chain of items selected from a menu.
+| *_BOLD_UPPERCASE_ITALICS_* | * _ ALL_CAPS _ * |  Represents an “exercise variable” that you replace with another value.
+| *`bold monospace`* | ` * * ` | Represents text displayed in a terminal or entered in a file.
+| monospace |  | Represents commands entered at the command line.
+| `_Italics Monospace_` | ` _ _ ` | Represents a file name, IP address, or an url.
+|====================
