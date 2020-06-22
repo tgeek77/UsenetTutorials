@@ -521,12 +521,12 @@
       <div id="_logo">
         <xsl:choose>
           <xsl:when test="$homepage != ''">
-            <a href="{$homepage}">
-              <img src="{$daps.header.logo}" alt="{$daps.header.logo.alt}"/>
+	    <a href="https://big-8.org">
+              <img src="{$daps.header.logo}" alt="{$daps.header.logo.alt}" style="width:62px;height:61px;"/>
             </a>
           </xsl:when>
           <xsl:otherwise>
-            <img src="{$daps.header.logo}" alt="{$daps.header.logo.alt}"/>
+            <img src="{$daps.header.logo}" alt="{$daps.header.logo.alt}" style="width:62px;height:61px;"/>
           </xsl:otherwise>
         </xsl:choose>
       </div>

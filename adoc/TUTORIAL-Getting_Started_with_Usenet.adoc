@@ -29,18 +29,17 @@ news.eternal-september.org
 . Install Thunderbird if you haven't already. If you are using Windows or Mac, you can install it from the following URL, if you are using Linux, you can install it with your distribution's package manager:
 +
 https://www.thunderbird.net/en-US/thunderbird/all/
-. The first time that you run Thunderbird, you will be prompted with a screen that says, “Set Up an Existing Email Account”. Click the *Cancel* button to continue. You can use Thunderbird for email also if you want,
-but we will focus on Usenet:
+. The first time that you run Thunderbird, you will be prompted with a screen that says, “Set Up an Existing Email Account”. Click the *Cancel* button to continue. You can use Thunderbird for email also if you want, but we will focus on Usenet:
 . Click on *Newsgroups*:
 . Fill in Your Name and Email Address, then click *Next*:
 +
 image::account_wizard.png[]
-
++
 These do *not* have to be real. You can make as many profiles as you want. Each profile is called a Nym in Usenet terminology. If you want people to be able to communicate with you outside of Usenet, then it may be good to invest the time to create a spare email account.
 . Fill in your Newsgroup Server:
-
++
 image::newsgroup_server.png[]
-
++
 ----
 news.eternal-september.org
 ----
@@ -48,13 +47,13 @@ news.eternal-september.org
 . Click *Finish*:
 . Click on *View Settings for this account*:
 . Click on *Server Settings*
-
++
 image::view_settings.png[]
 
 . Change Security Settings to *SSL/TLS*:
 . Click on *Always request authentication when connecting to this server*
 . Click *OK* at the bottom of the window:
-
++
 image::server-settings.png[]
 
 . Click Click *Manage newsgroup subscriptions*:
@@ -68,7 +67,7 @@ Usenet provider.
 
 . In the search window, search for eternal-september. The news server contains a few newsgroups that are not accessible to other providers. These all begin with “eternal-september.*”:
 . Click on the box next to *eternal-september.test* or click *Subscribe* then *OK*.
-
++
 image::subscribe.png[]
 
 . Click on the Arrow next to *news.eternal-september.org* on the left:
@@ -86,7 +85,7 @@ You should now see a lot of nonsense articles. These are articles from people wh
 . On the menu bar, click on *Write*:
 . Write a simple title and message.
 . On the menu, click *Send*:
-
++
 image::new_message.png[]
 
 == Summary:

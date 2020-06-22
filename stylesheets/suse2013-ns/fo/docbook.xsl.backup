@@ -30,7 +30,7 @@
   xmlns:fo="http://www.w3.org/1999/XSL/Format"
   exclude-result-prefixes="exsl d">
 
-  <xsl:import href="https://raw.githubusercontent.com/openSUSE/suse-xsl/master/suse2013-ns/fo/docbook.xsl"/>
+  <xsl:import href="http://docbook.sourceforge.net/release/xsl-ns/current/fo/docbook.xsl"/>
 
   <xsl:include href="../VERSION.xsl"/>
   <xsl:include href="param.xsl"/>
