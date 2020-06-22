@@ -22,7 +22,7 @@ ADOC_POST="yes"
 
 # Stylesheet directory
 #
-STYLEROOT="/usr/share/xml/docbook/stylesheet/opensuse2013-ns/"
+STYLEROOT="stylesheets/opensuse2013-ns/"
 #STYLEROOT="stylesheets/suse2013-ns/"
 
 # XSLT Parameters for customizing the stylesheets

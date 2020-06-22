@@ -1,0 +1,1 @@
+../../../daps2013-ns/static/js/script.js
