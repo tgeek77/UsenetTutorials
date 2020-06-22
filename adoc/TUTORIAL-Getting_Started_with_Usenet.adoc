@@ -33,7 +33,7 @@ https://www.thunderbird.net/en-US/thunderbird/all/
 but we will focus on Usenet:
 . Click on *Newsgroups*:
 . Fill in Your Name and Email Address, then click *Next*:
-
++
 image::account_wizard.png[]
 
 These do *not* have to be real. You can make as many profiles as you want. Each profile is called a Nym in Usenet terminology. If you want people to be able to communicate with you outside of Usenet, then it may be good to invest the time to create a spare email account.
