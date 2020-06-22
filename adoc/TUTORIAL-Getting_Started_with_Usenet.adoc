@@ -21,11 +21,13 @@ Before you continue, make sure to take a look at the Terms of use. This isn't a 
 http://www.eternal-september.org/index.php?showpage=terms
 . Fill out the information in the form. The server will send a new email in *plain text*. No, this is not ideal, but you can always come back and change the password later. Always use a new password when signing up to a new website so it can't be used elsewhere if it is found.
 . Put your userid and password someplace safe. You will also need to know that the server address that you will be using is:
-+
+[source,bash]
+----
 news.eternal-september.org
+----
 
 == Task 2: Set up *Thunderbird*
-
+--
 . Install Thunderbird if you haven't already. If you are using Windows or Mac, you can install it from the following URL, if you are using Linux, you can install it with your distribution's package manager:
 +
 https://www.thunderbird.net/en-US/thunderbird/all/
@@ -37,39 +39,30 @@ image::account_wizard.png[]
 +
 These do *not* have to be real. You can make as many profiles as you want. Each profile is called a Nym in Usenet terminology. If you want people to be able to communicate with you outside of Usenet, then it may be good to invest the time to create a spare email account.
 . Fill in your Newsgroup Server:
-+
-image::newsgroup_server.png[]
-+
-----
-news.eternal-september.org
-----
 . Choose an Account Name or leave it as the default
 . Click *Finish*:
 . Click on *View Settings for this account*:
 . Click on *Server Settings*
 +
 image::view_settings.png[]
-
 . Change Security Settings to *SSL/TLS*:
 . Click on *Always request authentication when connecting to this server*
 . Click *OK* at the bottom of the window:
 +
 image::server-settings.png[]
-
 . Click Click *Manage newsgroup subscriptions*:
 . Fill in your userid and password for eternal-september and click save
 password if you want:
 +
 If you are not using eternal-september, use the information from your
 Usenet provider.
-
+--
 == Task 3: *Subscribe to your first newsgroups*
-
+--
 . In the search window, search for eternal-september. The news server contains a few newsgroups that are not accessible to other providers. These all begin with “eternal-september.*”:
 . Click on the box next to *eternal-september.test* or click *Subscribe* then *OK*.
 +
 image::subscribe.png[]
-
 . Click on the Arrow next to *news.eternal-september.org* on the left:
 +
 Thunderbird always minimizes the names of newsgroups to save space.
@@ -79,7 +72,7 @@ You will be prompted for how many headers to download. If you have a very slow c
 +
 You should now see a lot of nonsense articles. These are articles from people who are doing exactly what you are doing. They are testing out their newsreaders to make sure that they can post to Usenet.
 . Click on a few articles from other people and read them. Don't expect them to make any sense since this is a test newsgroup. It's good to understand what a newsgroup article looks like like. +
-
+--
 == Task 4: *Post your first newsgroup article*
 
 . On the menu bar, click on *Write*:

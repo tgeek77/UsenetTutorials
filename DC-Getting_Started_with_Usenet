@@ -10,7 +10,7 @@ MAIN="TUTORIAL-Getting_Started_with_Usenet.adoc"
 
 # Image directory
 #
-ADOC_IMG_DIR="adoc/images"
+ADOC_IMG_DIR="adoc"
 
 # Type
 #
@@ -18,7 +18,7 @@ ADOC_TYPE="article"
 
 # Turn on postprocessing
 #
-ADOC_POST="yes"
+ADOC_POST="no"
 
 # Stylesheet directory
 #
