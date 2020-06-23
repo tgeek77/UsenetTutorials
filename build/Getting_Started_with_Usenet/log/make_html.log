@@ -1,0 +1,18 @@
+Tue Jun 23 07:31:41 UTC 2020
+tar: static/images/tick.png: File removed before we read it
+tar: static/images/clipboard.svg: File removed before we read it
+tar: static/images/dots-red.png: File removed before we read it
+tar: static/images/dots-darkgray.png: File removed before we read it
+tar: static/images/icon-warning.png: File removed before we read it
+tar: static/images/draft.png: File removed before we read it
+tar: static/images/icon-important.png: File removed before we read it
+tar: static/images/icon-note.png: File removed before we read it
+tar: static/images/dots-gray.png: File removed before we read it
+tar: static/images/dots-orange.png: File removed before we read it
+tar: static/css/highlight.css: File removed before we read it
+tar: static/css/fonts-onlylocal.css: File removed before we read it
+tar: static/js/highlight.min.js: File removed before we read it
+tar: static/js/jquery-1.10.2.min.js: File removed before we read it
+tar: static/js/script.js: File removed before we read it
+[32mSingle HTML book built with REMARKS=0, DRAFT=no and META=0:[0m
+[32m/home/jsevans/git/UsenetTutorials/build/Getting_Started_with_Usenet/single-html/Getting_Started_with_Usenet/[0m

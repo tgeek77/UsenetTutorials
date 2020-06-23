@@ -1,0 +1,35 @@
+[cols=",",]
+|===
+|- |
+|===
+
+[cols="",]
+|===
+a|
+Description:
+
+|===
+
+== Task 1: This is Task One
+
+[arabic]
+. Step one
+. Step two
+. Step three
+
+== Task 2: This is Task Two
+
+[arabic]
+. Step one
+. Step two
+. Step three
++
+
+[cols="",]
+|===
+a|
+Summary:
+
+|===
+
+(End of Exercise)
