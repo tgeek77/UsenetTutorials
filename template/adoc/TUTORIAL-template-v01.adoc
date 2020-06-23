@@ -1,35 +1,25 @@
-[cols=",",]
-|===
-|- |
-|===
+TITLE
+===========================
+:Author:    Jason Evans
+:Email:     jsevans@big-8.org
+:Date:      22 June 2020
+:Revision:  1.0
 
-[cols="",]
-|===
-a|
-Description:
-
-|===
+== Description:
 
 == Task 1: This is Task One
 
-[arabic]
 . Step one
 . Step two
 . Step three
 
 == Task 2: This is Task Two
 
-[arabic]
 . Step one
 . Step two
 . Step three
 +
 
-[cols="",]
-|===
-a|
-Summary:
-
-|===
+== Summary:
 
 (End of Exercise)

@@ -1,0 +1,74 @@
+Filtering Newsgroups with Thunderbird
+=====================================
+:Author:    Jason Evans
+:Email:     jsevans@big-8.org
+:Date:      22 June 2020
+:Revision:  1.0
+
+== Description:
+Much of the Usenet is a little like the wild west. Moderated Newsgroups exist, but they are few and far between. Even fewer are newsgroups that actually have active moderators. So, it's not uncommon to see two common issues that really turn people off of Usenet. The first is spam and the second is trolls.
+
+The spam is usually very obvious. You will see articles advertising drugs, loans, counterfeit money, and a wide range of other shady goods and services. It's also almost always off-topic to the newsgroup that they are posted in and it's easy to filter.
+
+Trolls first came to life on the Internet via Usenet and some still reside there. What do I mean by a troll? Trolls are mainly people who enjoy irritating and upsetting people just for fun. The same filtering that works for spam can also work for trolls.
+
+This tutorial will show you how to filter articles using Thunderbird based on sender and on subject. It is assumed that you know how to use Usenet or have reviewed the previous tutorial, "Getting Started with Usenet".
+
+== Task 1: Setup Thunderbird
+
+. Open Thunderbird and right-click on the area next to your main tab and choose *Main Bar*:
+image::main_bar.png[]
++
+If you already have this enabled, then you can continue on.
+. On the Menu bar, click *View* -> *Threads* -> *All*
++
+This will allow you to see all threads before they are filtered.
+
+== Task 2: Create your first filter
+
+. Go to the *eternal-september.test* newsgroup:
+. Choose an article with a subject that contains "test":
++
+NOTE: In Thunderbird, the newsgroup area has 3 parts: The *article list*, the *header* which contains the From, Subject, etc, and the *body* of the article.
++
+. In the *_header_* area, right-click on the *_Subject title_* and choose *Create Filter From...*
++
+You should now see a new pop-up screen called Filter Rules.
+. In the *_Filter Name_* field, choose type *test*:
+. Choose *Match any of the following*:
+. Change the filter rule from to the following:
++
+Subject *contains* test
+. Under *_Perform these actions_*, choose *Ignore Thread*:
+. Click *OK*:
++
+image::filter_rules.png[]
++
+The *Filter Rules* window should close and be replaced with the *Message Filters* window.
+. Click *Run Now*:
++
+You have now created a filter that will automatically look at all articles and place an "ignored flag next to them." On some articles, you will now see a red icon next to articles that contain the word "test" in the subject.
+. On the Menu bar, click *View* -> *Threads* -> *Ignored Threads*:
++
+Those messages should no longer be visible.
+
+NOTE: While it may seem to be better to just delete any articles that you don't want to see, sometimes everyone delete things by accident that they didn't want to. It's better to just hide something and be able to go back if you need to than the delete it completely. Also, deleting only deletes it from your machine not from the rest of Usenet.
+
+== Task 3: Filter articles by person:
+
+. In the article list on *_eternal-september.test_*, choose the article called *greetings from the past!* by tux:
+. In the *_header_* area, right-click on the *_tux@linux.com_* and choose *Create Filter From...*
+. Like in the previous task, filter any articles that contain *tux*:
+. Instead of ignoring the article, choose *Add Star*:
+. Click *OK*:
+. Click *Run Now*:
+. On the Menu bar, click *View* -> *Sort by* -> *Star*:
++
+You should now see that article at the top of your list of article.
+
+NOTE: Filters aren't just negative. They can also be used to make sure that important topics or articles from from friends are seen first. The filtering tool is very powerful and can drastically change how useful Usenet is to you.
+
+== Summary:
+In this exercise, you created your first two filters, by subject and user respectively. You also learned how to view, hide, and sort articles based on those filter.
+
+(End of Exercise)

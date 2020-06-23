@@ -37,7 +37,8 @@ https://www.thunderbird.net/en-US/thunderbird/all/
 +
 image::account_wizard.png[]
 +
-These do *not* have to be real. You can make as many profiles as you want. Each profile is called a Nym in Usenet terminology. If you want people to be able to communicate with you outside of Usenet, then it may be good to invest the time to create a spare email account.
+NOTE: Your name and email do not have to be real. You can make as many profiles as you want. Each profile is called a Nym in Usenet terminology. If you want people to be able to communicate with you outside of Usenet, then it may be good to invest the time to create a spare email account.
++
 . Fill in your Newsgroup Server:
 . Choose an Account Name or leave it as the default
 . Click *Finish*:
@@ -85,7 +86,7 @@ image::new_message.png[]
 
 In this tutorial, you have signed up for your first Usenet account, set up Thunderbird for Usenet, read a few article, and posted a test article. You now have all of the tools to be dangerous.
 
-A word about Usenet Netiquette:
+IMPORTANT: A word about Usenet Netiquette:
 
 Before there were Codes of Conduct, there was Netiquette. Netiquette is a set of common sense rules for behaving online. Most are common sense: don't be a jerk to people, don't troll, don't feed the trolls, and don't spam.
 Others are specific to Newsgroups such as don't top post. You can read about this in a little more detail below. Nobody wants to join a new community and be __that newbie__. It's always best to read first, reply
