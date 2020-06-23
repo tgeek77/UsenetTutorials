@@ -17,7 +17,6 @@ This tutorial will show you how to filter articles using Thunderbird based on se
 == Task 1: Setup Thunderbird
 
 . Open Thunderbird and right-click on the area next to your main tab and choose *Main Bar*:
-image::main_bar.png[]
 +
 If you already have this enabled, then you can continue on.
 . On the Menu bar, click *View* -> *Threads* -> *All*
@@ -41,8 +40,6 @@ You should now see a new pop-up screen called Filter Rules.
 Subject *contains* test
 . Under *_Perform these actions_*, choose *Ignore Thread*:
 . Click *OK*:
-+
-image::filter_rules.png[]
 +
 The *Filter Rules* window should close and be replaced with the *Message Filters* window.
 . Click *Run Now*:
