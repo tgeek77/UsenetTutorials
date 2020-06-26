@@ -1,3 +1,5 @@
+[source]
+----
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!think.com!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.announce.newusers
@@ -47,7 +49,7 @@ news.newusers.questions group.
  7.  misc.misc or misc.wanted: Is John Doe out there anywhere?
  8.  sci.math: Proofs that 1=0.
  9.  rec.games.*: Where can I get the source for empire or rogue?
-10.  comp.unix.questions: How do I remove files with non-ascii 
+10.  comp.unix.questions: How do I remove files with non-ascii
      characters in their names?
 11.  comp.unix.internals: There is a bug in the way UNIX handles
      protection for programs that run suid, or any other report of
@@ -251,7 +253,7 @@ news.newusers.questions group.
      articles in their appropriate forums.
 
 13.  soc.singles: What do MOTOS, MOTSS, MOTAS, and SO stand for?
-     What does LJBF mean? 
+     What does LJBF mean?
 
      Member of the opposite sex, member of the same sex, and member of
      the appropriate sex, respectively.  SO stands for "significant
@@ -288,7 +290,7 @@ news.newusers.questions group.
 	att	All AT&T machines
 	usa	Everywhere in the USA
 	na	Everywhere in North America
-	world	Everywhere on USENET in the world 
+	world	Everywhere on USENET in the world
 
      If you hit return, you'll get the default, which is usually
      "world.".  This default is often not appropriate -- PLEASE take a
@@ -634,7 +636,7 @@ news.newusers.questions group.
      on the net, adding even more to the volume -- most of it directed
      to you.  Users, particular system admins, do not like that kind of
      activity, and they will flood your mailbox with notices to that
-     effect. 
+     effect.
 
      And last, and perhaps most important, some of this activity is
      against the law in many places.  In the US, you can (and will) be
@@ -679,8 +681,9 @@ news.newusers.questions group.
        not, then you'll have to post a message in the newsgroup and
        ask if it is archived anywhere.
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

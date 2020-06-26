@@ -1,3 +1,6 @@
+[source]
+----
+
 Xref: blister news.announce.newusers:71 news.groups:7462 news.admin:4317
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!usc!elroy.jpl.nasa.gov!sdd.hp.com!news.cs.indiana.edu!purdue!turbo.bio.net!lear
 From: lear@turbo.bio.net
@@ -22,9 +25,9 @@ REQUIREMENTS FOR GROUP CREATION:
 
    These are guidelines that have been generally agreed upon across
 USENET as appropriate for following in the creating of new newsgroups in
-the "standard" USENET newsgroup hierarchy. They are NOT intended as 
+the "standard" USENET newsgroup hierarchy. They are NOT intended as
 guidelines for setting USENET policy other than group creations, and they
-are not intended to apply to "alternate" or local news hierarchies. The 
+are not intended to apply to "alternate" or local news hierarchies. The
 part of the namespace affected is comp, news, sci, misc, soc, talk, rec,
 which are the most widely-distributed areas of the USENET hierarchy.
    Any group creation request which follows these guidelines to a
@@ -63,7 +66,7 @@ The Discussion
    discussion, the discussion should be taken offline (into mail instead of
    news.groups) and the proponents should iron out the details among
    themselves.  Once that is done, a new, more specific proposal may be made,
-   going back to step 1) above.  
+   going back to step 1) above.
 
 3) Group advocates seeking help in choosing a name to suit the proposed
    charter, or looking for any other guidance in the creation procedure, can
@@ -97,7 +100,7 @@ The Vote
    votes. Only votes that arrive on the vote-taker's machine prior to this
    date will be counted.
 
-3) A couple of repeats of the call for votes may be posted during the vote, 
+3) A couple of repeats of the call for votes may be posted during the vote,
    provided that they contain similar clear, unbiased instructions for
    casting a vote as the original, and provided that it is really a repeat
    of the call for votes on the SAME proposal (see #5 below). Partial vote
@@ -109,8 +112,8 @@ The Vote
    is officially over.
 
 4) ONLY votes MAILED to the vote-taker will count. Votes posted to the net
-   for any reason (including inability to get mail to the vote-taker) and 
-   proxy votes (such as having a mailing list maintainer claim a vote for 
+   for any reason (including inability to get mail to the vote-taker) and
+   proxy votes (such as having a mailing list maintainer claim a vote for
    each member of the list) will not be counted.
 
 5) Votes may not be transferred to other, similar proposals. A vote shall
@@ -141,15 +144,15 @@ The Result
    verified.
 
 2) AFTER the vote result is posted, there will be a 5 day waiting period,
-   beginning when the voting results actually appear in 
+   beginning when the voting results actually appear in
    news.announce.newgroups, during which the net will have a chance to
    correct any errors in the voter list or the voting procedure.
 
 3) AFTER the waiting period, and if there were no serious objections that might
    invalidate the vote, and if 100 more valid YES/create votes are received
    than NO/don't create AND at least 2/3 of the total number of valid votes
-   received are in favor of creation, a newgroup control message may be sent 
-   out.  If the 100 vote margin or 2/3 percentage is not met, the group should 
+   received are in favor of creation, a newgroup control message may be sent
+   out.  If the 100 vote margin or 2/3 percentage is not met, the group should
    not be created.
 
 4) The newgroup message will be sent by the news.announce.newgroups moderator
@@ -162,3 +165,4 @@ The Result
    brought up for discussion until at least six months have passed from the
    close of the vote.  This limitation does not apply to proposals which never
    went to vote.
+----

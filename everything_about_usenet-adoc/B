@@ -1,3 +1,5 @@
+[source]
+----
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.announce.newusers
@@ -65,7 +67,7 @@ post to these newsgroups, send mail to the moderator. Examples:
 
 Newsgroup		Moderator	Purpose
 ---------		---------	-------
-news.announce.important stargate!announce	Important announcements for everyone 
+news.announce.important stargate!announce	Important announcements for everyone
 comp.std.unix		uunet!std-unix	Unix standards discussion
 comp.std.mumps		plus5!std-mumps	ANSI Mumps standards discussion
 comp.unix		zorba!modunix	Discussion of Unix* features and bugs
@@ -76,7 +78,7 @@ Newsgroup		Rules
 ---------		-----
 news.announce.important	Moderated, no direct postings, important things only.
 misc.wanted		Queries, "I want an x", "Anyone want my x?".  No
-			discussions. Don't post to more than one xxx.wanted. 
+			discussions. Don't post to more than one xxx.wanted.
 			Use the smallest appropriate wanted (e.g. used car
 			ads to nj.wanted.)
 			Requests for sources, termcaps, etc. should go to the
@@ -195,8 +197,9 @@ mailbox than read another broadcast in the news system.  If your
 message is *really* important, pick up the phone and try to call the
 other person.
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

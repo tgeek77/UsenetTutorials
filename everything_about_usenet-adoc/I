@@ -1,3 +1,6 @@
+[source]
+----
+
 Xref: blister news.lists:181 news.groups:7459 news.announce.newusers:64
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
@@ -249,7 +252,7 @@ bionet.agroforestry		Discussion of Agroforestry.
 bionet.biology.computational	Computer and mathematical applications (Moderated)
 bionet.general			General BIOSCI discussion.
 bionet.genome.chrom22		Discussion of Chromosome 22.
-bionet.genome.arabidopsis	Information about the Arabidopsis project. 
+bionet.genome.arabidopsis	Information about the Arabidopsis project.
 bionet.jobs			Scientific Job opportunities.
 bionet.journals.contents	Contents of biology journal publications.
 bionet.molbio.ageing		Discussions of cellular and organismal ageing.
@@ -452,7 +455,7 @@ ClariNet
 The ClariNet hierarchy consists of newsgroups gatewayed from
 commercial news services and other ``official'' sources.  A feed of
 the ClariNet groups requires payment of a fee and execution of a
-license.  More information may be obtained by sending mail to 
+license.  More information may be obtained by sending mail to
 "info@clarinet.com".
 
 clari.news		ClariNet UPI general news wiregroups.
@@ -714,7 +717,7 @@ ieee.usab.general	USAB - General discussion.
 We are willing to distribute these newsgroups via NNTP to any site
 that desires to carry them.  If you would like a feed of these
 newsgroups, have the newsadmin for your site contact 'usenet@ieee.org'
-for a feed.  
+for a feed.
 
 Inet/DDN
 --------
@@ -859,7 +862,7 @@ by most major usenet news sites, including uunet. The vmsnet groups are
 carried by roughly one third of the sites on usenet. To find a feed,
 contact the system managers of news sites near you, and/or post to a local
 or regional newsgroup and ask if anyone in the area is carrying the VMSnet
-newsgroups. 
+newsgroups.
 
 If you have tried these alternatives and still can not find a site in your
 local area that carries the VMSnet groups, you can send mail to Terry Poot
@@ -895,8 +898,9 @@ vmsnet.tpu              TPU language and applications, gatewayed to info-tpu.
 vmsnet.uucp		DECUS uucp software, gatewayed to vmsnet mailing list.
 
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

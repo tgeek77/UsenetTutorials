@@ -1,3 +1,5 @@
+[source]
+----
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.announce.newusers
@@ -38,7 +40,7 @@ The current policy is that news.announce.important submissions must be:
 (a) short - preferably they should fit on one crt screen, including headers.
 (b) important enough to at least have their header shown to everyone on the
     net.  The posting should be more of benefit to the net than to the poster.
-(c) not posted to any other newsgroup - news.announce.important by itself is 
+(c) not posted to any other newsgroup - news.announce.important by itself is
     supposed to be sufficient to reach everybody, and nobody should have to
     read an announcement more than once.
 (d) signed - the author should be clearly evident.
@@ -79,8 +81,9 @@ and avoid acronyms unless very widely known.
  	news.announce.newgroups moderator	news.announce.conferences
  	tale@rpi.edu						denny@tekbspa.tss.com
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

@@ -1,3 +1,5 @@
+[source]
+----
 Xref: blister news.admin:4314 news.announce.newusers:60 news.software.readers:353
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
@@ -155,7 +157,7 @@ So up to 110% of your news spool is the amount of space news and the
 nn database will take.)  The current version of nn is 6.4.16.  nn can
 be obtained via anonymous FTP from dkuug.dk, uop.uop.edu,
 mthvax.cs.miami.edu or various other sites; European sites should
-request the sources from their nearest backbone site.  
+request the sources from their nearest backbone site.
 
 "notes" is a software package popular at some sites.  It uses a
 different internal organization of articles, and a different
@@ -341,8 +343,9 @@ enhanced by the contributions and assistance of the following persons:
 Steve Bellovin, Ray Essick, Mark Horton, Brian Kantor, Phil Lapsley,
 Bob Page, Tom Truscott, and Larry Wall.  Thanks, folks.
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

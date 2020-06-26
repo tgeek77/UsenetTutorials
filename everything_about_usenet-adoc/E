@@ -1,3 +1,5 @@
+[source]
+----
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.announce.newusers
@@ -74,7 +76,7 @@ more important details.
 Also, be sure to include your signature TWICE in each article.  That
 way you're sure people will read it.
 
-				------ 
+				------
 
 Dear Ms. Postnews: I couldn't get mail through to somebody on another
 site.  What should I do? -- eager@beaver.dam
@@ -99,7 +101,7 @@ overnight letter, or even 29 cents on a stamp!
 Don't forget.  The world will end if your message doesn't get through,
 so post it as many places as you can.
 
-				------ 
+				------
 
 Q: What about a test message?
 
@@ -110,7 +112,7 @@ everybody always skips a message with a line like that.  Don't use a
 subject like "My sex is female but I demand to be addressed as male."
 because such articles are read in depth by all USEnauts.
 
-				------ 
+				------
 
 Q: Somebody just posted that Roman Polanski directed Star Wars.  What
 should I do?
@@ -125,7 +127,7 @@ And it's not good enough to send the message by mail.  Since you're
 the only one who really knows that it was Francis Coppola, you have to
 inform the whole net right away!
 
-				------ 
+				------
 
 Q: I read an article that said, "reply by mail, I'll summarize."  What
 should I do?
@@ -135,7 +137,7 @@ dumb people who don't have something interesting to say.  Your
 postings are much more worthwhile than other people's, so it would be
 a waste to reply by mail.
 
-				------ 
+				------
 
 Q: I collected replies to an article I wrote, and now it's time to
 summarize.  What should I do?
@@ -145,7 +147,7 @@ post that.  On USENET, this is known as a summary.  It lets people
 read all the replies without annoying newsreaders getting in the way.
 Do the same when summarizing a vote.
 
-				------ 
+				------
 
 Q: I saw a long article that I wish to rebut carefully, what should I
 do?
@@ -169,7 +171,7 @@ attack on another, I always immediately take it as gospel unless a
 rebuttal is posted.  It never makes me think less of the insulter, so
 it's your duty to respond.
 
-				------ 
+				------
 
 Q: How can I choose what groups to post in?
 
@@ -185,7 +187,7 @@ you expand the list of groups.  Never include a "Followup-to:" line in
 the header, since some people might miss part of the valuable
 discussion in the fringe groups.
 
-				------ 
+				------
 
 Q: How about an example?
 
@@ -212,7 +214,7 @@ group.  If you list all the newsgroups in the same article, some
 newsreaders will only show the the article to the reader once!  Don't
 tolerate this.
 
-				------ 
+				------
 
 Q: How do I create a newsgroup?
 
@@ -256,7 +258,7 @@ ALT group, simply issue the creation command.  Then issue an rmgroup
 and some more newgroup messages to save other netters the trouble of
 doing that part.
 
-				------ 
+				------
 
 Q: I cant spell worth a dam.  I hope your going too tell me what to
 do?
@@ -266,7 +268,7 @@ message that counts, not the way it's presented.  Ignore the fact that
 sloppy spelling in a purely written forum sends out the same silent
 messages that soiled clothing would when addressing an audience.
 
-				------ 
+				------
 
 Q: How should I pick a subject for my articles?
 
@@ -278,7 +280,7 @@ totally meaningless and not part of the same discussion.  If you
 don't, you won't catch all the people who are looking for stuff on the
 original topic, and that means less audience for you.
 
-				------ 
+				------
 
 Q: What sort of tone should I take in my article?
 
@@ -292,7 +294,7 @@ attention.
 If your article is polite, reasoned and to the point, you may only get
 mailed replies.  Yuck!
 
-				------ 
+				------
 
 Q: The posting software suggested I had too long a signature and too
 many lines of included text in my article.  What's the best course?
@@ -317,7 +319,7 @@ in your article, be sure to delete some of the attribution lines so
 that it looks like the original author of -- say -- a plea for world
 peace actually wrote the followup calling for the nuking of Bermuda.
 
-				------ 
+				------
 
 Q: They just announced on the radio that the United States has invaded
 Iraq.  Should I post?
@@ -328,7 +330,7 @@ after the broadcast networks have covered them.  As you are probably
 the only person to have heard the news on the radio, be sure to post
 as soon as you can.
 
-				------ 
+				------
 
 Q: I have this great joke.  You see, these three strings walk into a
 bar...
@@ -337,7 +339,7 @@ A: Oh dear.  Don't spoil it for me.  Submit it to rec.humor, and post
 it to the moderator of rec.humor.funny at the same time.  I'm sure
 he's never seen that joke.
 
-				------ 
+				------
 
 Q: What computer should I buy?  An Atari ST or an Amiga?
 
@@ -348,7 +350,7 @@ advance or examine the "frequently asked question" lists to see if the
 topic has already been dealt with.  In fact, you don't need to read
 the group at all, and you can tell people that in your query.
 
-				------ 
+				------
 
 Q: What about other important questions?  How should I know when to
 post?
@@ -358,7 +360,7 @@ knowledgeable user in one of the groups and ask through private mail
 if the topic has already come up.  Much easier to bother thousands of
 people with the same question.
 
-				------ 
+				------
 
 Q: What is the measure of a worthwhile group?
 
@@ -368,7 +370,7 @@ group, the higher percentage of useful, factual and insightful
 articles you will find.  In fact, if a group can't demonstrate a high
 enough volume, it should be deleted from the net.
 
-				------ 
+				------
 
 Q: Emily, I'm having a serious disagreement with somebody on the net.
 I tried complaints to his sysadmin, organizing mail campaigns, called
@@ -394,14 +396,15 @@ well known.  People on the net will wait in eager anticipation for
 your every posting, and refer to you constantly.  You'll get more mail
 than you ever dreamed possible -- the ultimate in net success.
 
-				------ 
+				------
 
 Q: What does foobar stand for?
 
 A: It stands for you, dear.
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

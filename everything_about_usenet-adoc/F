@@ -1,3 +1,5 @@
+[source]
+----
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.announce.newusers
@@ -17,7 +19,7 @@ I would like to take a moment to share some of my knowledge of writing
 style.  If you read the suggestions below, remember: it's easy to agree
 that they make sense but it's much harder to apply them.
 
-References: 
+References:
  Cunningham and Pearsall, "How to Write For the World of Work"
  Strunk & White, "Elements of Style"
 
@@ -36,7 +38,7 @@ This is a "long article." The rest of it is simply a list of pointers.
    reads at a 5th grade level (11 years of age). The avg. professional
    reads at about the 12th grade level (18 years of age).
 
- * Keep paragraphs short and sweet.  Keep sentences shorter and sweeter. 
+ * Keep paragraphs short and sweet.  Keep sentences shorter and sweeter.
    This means "concise," not cryptic.
 
  * White space is not wasted space -- it greatly improves clarity.
@@ -61,7 +63,7 @@ This is a "long article." The rest of it is simply a list of pointers.
 
                Net style:
 
- * Subtlety is not communicated well in written form - especially over a 
+ * Subtlety is not communicated well in written form - especially over a
    computer.
 
  * The above applies to humor as well. (rec.humor, of course, not included.)
@@ -86,8 +88,8 @@ This is a "long article." The rest of it is simply a list of pointers.
    mangles the meaning of your sentences and takes longer to read. It saves
    you time at the expense of your reader.
 
- * Be careful of contextual meanings of words. For instance, I used "articles" 
-   just now.  In the context of netnews, it has a different meaning than I 
+ * Be careful of contextual meanings of words. For instance, I used "articles"
+   just now.  In the context of netnews, it has a different meaning than I
    intended.
 
  * Make an effort to spell words correctly.  Obvious misspellings are
@@ -101,13 +103,14 @@ This is a "long article." The rest of it is simply a list of pointers.
    articles.  So might your spouse, neighbors, children, and others
    who will long-remember your gaffes.
 
-'Nuff said.  
+'Nuff said.
 
 These suggestions are all easily supported by arguments and research.
 There's a lot more to say, but....
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

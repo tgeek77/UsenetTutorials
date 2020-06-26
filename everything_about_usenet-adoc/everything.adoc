@@ -50,113 +50,113 @@ Previous Editions:
 3. USNT9105.ZIP    May 1991
 
 == Introduction to news.announce
-include::../everything_about_usenet-adoc/A[]
+include::A[]
 <<<
 
 == Rules for posting to Usenet
-include::../everything_about_usenet-adoc/B[]
+include::B[]
 <<<
 
 == Answers to Frequently Asked Questions
-include::../everything_about_usenet-adoc/C[]
+include::C[]
 <<<
 
 == A Primer on How to Work With the Usenet Community
-include::../everything_about_usenet-adoc/D[]
+include::D[]
 <<<
 
 == Emily Postnews Answers Your Questions on Netiquette
-include::../everything_about_usenet-adoc/E[]
+include::E[]
 <<<
 
 == Hints on writing style for Usenet
-include::../everything_about_usenet-adoc/F[]
+include::F[]
 <<<
 
 == How to Create a New Newsgroup
-include::../everything_about_usenet-adoc/G[]
+include::G[]
 <<<
 
 == USENET Software: History and Sources
-include::../everything_about_usenet-adoc/H[]
+include::H[]
 <<<
 
 == Alternative Newsgroup Hierarchies
-include::../everything_about_usenet-adoc/I[]
+include::I[]
 <<<
 
 == List of Active Newsgroups
-include::../everything_about_usenet-adoc/J[]
+include::J[]
 <<<
 
 == List of Moderators
-include::../everything_about_usenet-adoc/K[]
+include::K[]
 <<<
 
 == Publicly Accessible Mailing Lists
-include::../everything_about_usenet-adoc/L[]
+include::L[]
 <<<
 
 == How to Get Information about Networks
-include::../everything_about_usenet-adoc/M[]
+include::M[]
 <<<
 
 == List of Periodic Informational Postings
-include::../everything_about_usenet-adoc/N[]
+include::N[]
 <<<
 
 == Regional Newsgroup Hierarchies
-include::../everything_about_usenet-adoc/O[]
+include::O[]
 <<<
 
 == How to Create a Trial Newsgroup
-include::../everything_about_usenet-adoc/P[]
+include::P[]
 <<<
 
 == A Guide to Social Newsgroups and Mailing Lists
-include::../everything_about_usenet-adoc/Q[]
+include::Q[]
 <<<
 
 == What is Usenet?
-include::../everything_about_usenet-adoc/R[]
+include::R[]
 <<<
 
 == How to Construct the Mailpaths File
-include::../everything_about_usenet-adoc/S[]
+include::S[]
 <<<
 
 == Brief Description on how to send Mail
-include::../everything_about_usenet-adoc/ADDRESS[]
+include::ADDRESS[]
 <<<
 
 == How to Register Your Site in Usenet Maps <from rutgers.uucp>
-include::../everything_about_usenet-adoc/README[]
+include::README[]
 <<<
 
 == Standard for ARPA Internet Text Messages
-include::../everything_about_usenet-adoc/RFC822[]
+include::RFC822[]
 <<<
 
 == UUCP Mail Interchange Format Standard
-include::../everything_about_usenet-adoc/RFC0976[]
+include::RFC0976[]
 <<<
 
 == Standard for Interchange of USENET Messages
-include::../everything_about_usenet-adoc/RFC1036[]
+include::RFC1036[]
 <<<
 
 == Choosing a Name for Your Computer
-include::../everything_about_usenet-adoc/RFC1178[]
+include::RFC1178[]
 <<<
 
 == The Smiley Dictionary
-include::../everything_about_usenet-adoc/SMILEY[]
+include::SMILEY[]
 <<<
 
 == Usenet Book Sources
-include::../everything_about_usenet-adoc/USEBOOKS[]
+include::USEBOOKS[]
 <<<
 
 == How to Use USENET Effectively, Supplement to files A - S
-include::../everything_about_usenet-adoc/USENET.TXT[]
+include::USENET.TXT[]
 <<<

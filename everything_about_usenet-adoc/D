@@ -1,3 +1,5 @@
+[source]
+----
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.announce.newusers
@@ -15,7 +17,7 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
 
 
               A Primer on How to Work With the USENET Community
-                             Chuq Von Rospach 
+                             Chuq Von Rospach
 
 
 
@@ -96,7 +98,7 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
 
   Never say in ten words what you can say in fewer.  Say it succinctly and
   it will have a greater impact.  Remember that the longer you make your
-  article, the fewer people will bother to read it.  
+  article, the fewer people will bother to read it.
 
                Your Postings Reflect Upon You -- Be Proud of Them
 
@@ -130,7 +132,7 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
   It is considered bad form to post both to misc.misc, soc.net-people,
   or misc.wanted and to some other newsgroup.  If it belongs in that
   other newsgroup, it does not belong in misc.misc, soc.net-people,
-  or misc.wanted.  
+  or misc.wanted.
 
   If your message is of interest to a limited geographic area (apartments,
   car sales, meetings, concerts, etc...), restrict the distribution of the
@@ -144,9 +146,9 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
   Messages in misc.misc that say "This is a test" are likely to cause
   large numbers of caustic messages to flow into your mailbox.  There are
   newsgroups that are local to your computer or area that should be used.
-  Your system administrator can tell you what they are.  
+  Your system administrator can tell you what they are.
 
-  Be familiar with the group you are posting to before you post!  You 
+  Be familiar with the group you are posting to before you post!  You
   shouldn't post to groups you do not read, or post to groups you've
   only read a few articles from -- you may not be familiar with the on-going
   conventions and themes of the group.  One normally does not join
@@ -239,7 +241,7 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
   say.  If someone has, don't repeat it.
 
 				 Check the Headers When Following Up
-  
+
   The news software has provisions to specify that follow-ups to an
   article should go to a specific set of newsgroups -- possibly
   different from the newsgroups to which the original article was
@@ -320,7 +322,7 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
 			Limit Line Length and Avoid Control Characters
 
   Try to keep your text in a generic format.  Many (if not most) of
-  the people reading Usenet do so from 80 column terminals or from 
+  the people reading Usenet do so from 80 column terminals or from
   workstations with 80 column terminal windows.  Try to keep your
   lines of text to less than 80 characters for optimal readability.
   If people quote part of your article in a followup, short lines will
@@ -332,7 +334,7 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
   a character sequence that causes reverse video on your screen may
   result in a keyboard lock and graphics mode on someone else's
   terminal.  You should also try to avoid the use of tabs, too, since
-  they may also be interpreted differently on terminals other than 
+  they may also be interpreted differently on terminals other than
   your own.
 
 
@@ -366,8 +368,9 @@ Original-from: chuq@apple.COM (Chuq Von Rospach)
 -----------
       This document is in the public domain and may be reproduced or
       excerpted by anyone wishing to do so.
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----
