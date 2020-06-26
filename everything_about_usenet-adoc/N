@@ -1,3 +1,5 @@
+[source]
+----
 Xref: blister news.lists:188 news.announce.newusers:74
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!think.com!samsung!news.cs.indiana.edu!purdue!gynko.circ.upenn.edu!rsk
 From: rsk@gynko.circ.upenn.edu
@@ -140,7 +142,7 @@ Frequency: monthly
 
 From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
 Newsgroups: comp.benchmarks
-Subject: [l/m */*/**] benchmark info sources [under construction] 
+Subject: [l/m */*/**] benchmark info sources [under construction]
 Frequency: monthly
 
 From: koreth@panarthea.EBay.Sun.COM (Steven Grimm)
@@ -210,7 +212,7 @@ Frequency: monthly
 
 From: syd@DSI.COM (Syd Weinstein)
 Newsgroups: comp.mail.elm
-Subject: Elm Group monthly posting - * * 
+Subject: Elm Group monthly posting - * *
 Frequency: monthly
 
 From: uucpmap@rutgers.rutgers.edu (UUCP Mapping Project)
@@ -430,7 +432,7 @@ Frequency: monthly
 
 From: bobby@hot.caltech.edu (Bobby Bodenheimer)
 Newsgroups: comp.text.tex
-Subject: Frequently Asked Questions about TeX, etc. - with Answers [Monthly] 
+Subject: Frequently Asked Questions about TeX, etc. - with Answers [Monthly]
 Frequency: monthly
 
 From: raymond@math.berkeley.edu (Raymond Chen)
@@ -802,7 +804,7 @@ From: conty@cbnewsl.att.com (Enrique Conty)
 Newsgroups: rec.arts.anime
 Subject: THE ANIME FREQUENTLY-ASKED-QUESTIONS LIST
 Frequency: monthly
-	
+
 From: conty@cbnewsl.att.com (Enrique Conty)
 Newsgroups: rec.arts.anime
 Subject: THE ANIME RESOURCES LIST
@@ -893,7 +895,7 @@ Newsgroups: rec.arts.startrek.info
 Frequency: monthly
 
 From: trek-info@dweeb.fx.com (Jim Griffith - Moderator)
-Subject: Administrivia 
+Subject: Administrivia
 Newsgroups: rec.arts.startrek.info
 Frequency: every now and then
 
@@ -967,7 +969,7 @@ Newsgroups: rec.food.recipes
 Subject: MONTHLY: General Information [last updated ***]
 Frequency: monthly
 
-From: pals@inland.com (Randy Pals) 
+From: pals@inland.com (Randy Pals)
 Newsgroups: rec.games.ches
 Subject: FAQ: Answers to Frequently Asked Questions
 Frequency: monthly
@@ -983,7 +985,7 @@ Subject: Introduction to REC.HUMOR.FUNNY -- Monthly Posting
 Frequency: monthly
 
 From: Chuq Von Rospach <chuq@apple.com>
-Newsgroups: rec.mag.otherrealms 
+Newsgroups: rec.mag.otherrealms
 Subject: Introduction to rec.mag.otherrealms
 Frequency: tri-weekly
 
@@ -1166,3 +1168,4 @@ From: tp@mccall.com
 Newsgroups: vmsnet.sources.d,comp.os.vms
 Subject: Monthly info posting: vmsnet.sources archive sites
 Frequency: monthly
+----

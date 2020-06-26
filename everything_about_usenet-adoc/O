@@ -1,3 +1,5 @@
+[source]
+----
 Xref: blister news.lists:184 news.groups:7461 news.announce.newusers:66
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!think.com!samsung!news.cs.indiana.edu!purdue!uunet.uu.net
 From: asp@uunet.uu.net (Andrew Partan)
@@ -18,7 +20,7 @@ Original-from: asp@uunet.uu.net (Andrew Partan)
 [Most recent change: 15 Mar 1991 by asp@uunet.uu.net (Andrew Partan)]
 
 Introduction
-------------
+---------------
 There are a large number of regional hierarchies of newsgroups.
 Most are very low volume.  The only high volume hierarchy that I know of
 is fj.*.
@@ -102,7 +104,7 @@ Newsgroups in Alabama, USA.
 <no listed newsgroups.>
 
 Athena
-------
+-------
 Newsgroups at Project Athena, MIT, Cambridge, MA, USA.  For more
 information, you can try contacting S. Tucker <sst@ATHENA.MIT.EDU> or
 ambar@athena.mit.edu.
@@ -181,7 +183,7 @@ aus.tex			The TeX typesetting system [Australian]
 aus.wanted		Requests for sources, information, ... [Australian]
 
 Austin
-------
+-------
 Newsgroups in Austin, Texas, USA.  For more information, you can try
 contacting Fletcher Mattox <fletcher@cs.utexas.edu>.
 
@@ -229,13 +231,13 @@ Newsgroups in some unknown place.
 bln.general
 
 Boulder
-------
+-------
 Newsgroups in Boulder, Colorado, USA.
 
 boulder.general		Items of general interest to Boulder, CO.
 
 Bu
-------
+-------
 Newsgroups at Boston University, Boston, MA.  For more information, you
 can try contacting Leonard (Len) H. Tower Jr. <tower@bu.edu>.
 
@@ -273,7 +275,7 @@ can.uucp		Canadian uucp problems.
 can.uucp.maps		Canadian UUCP maps are posted here. (Moderated)
 
 Capdist
--------
+--------
 Newsgroups in the Capitol District (Albany area) of New York, in New
 York, USA.  [Note: This is Capitol as in head city, not capital as in
 money.]
@@ -436,7 +438,7 @@ dn.supers
 dn.supers.disc
 
 Dnet
-----
+-----
 Newsgroups in Germany, all in German.
 
 dnet.and.sub.general	General information for dnet and subnet
@@ -468,7 +470,7 @@ dtek.newsoft		new software
 dtek.test		test messages
 
 Duke
-----
+-----
 Newsgroups at Duke University, North Carolina, USA.  For more
 information, you can try contacting Gregory G. Woodbury
 <ggw@cs.duke.edu>.
@@ -487,7 +489,7 @@ edm.general		Items of general interest in Edmonton, Alberta, Canada.
 edm.usrgrp		Unix Users Group in Edmonton, Alberta, Canada.
 
 Essug
------
+------
 Newsgroups for the ESS User Group.
 
 essug.copt		ESS User Group
@@ -495,7 +497,7 @@ essug.misc		ESS User Group
 essug.telco		ESS User Group
 
 Eunet
------
+------
 Newsgroups in Europe.  For more information, you can try contacting
 Piet Beertema <piet@cwi.nl> or Daniel Karrenberg <dfk@mcsun.eu.net>.
 
@@ -682,7 +684,7 @@ fl.uug			UNIX user groups within Florida.
 fl.yumyum		Reviews and advice on restaurants in Florida.
 
 Fnet
-----
+-----
 Newsgroups in France.
 
 fnet.afuu		Discussions concerning Association Francaise d'Utilisateurs Unix
@@ -723,7 +725,7 @@ contacting d9bertil@dtek.chalmers.se.
 gbg.general		general
 
 Houston
--------
+--------
 Newsgroups in Houston, Texas, USA.  For more information, you can try
 contacting Stan Barber <sob@tmc.edu>.
 
@@ -748,7 +750,7 @@ Newsgroups at Helsinki University in Finland.
 <no listed newsgroups>
 
 Info
-----
+-----
 Newsgroups in some unknown place.
 
 info.slug
@@ -823,7 +825,7 @@ math.general		general
 math.news		about news (math is a central nntpserver on cth)
 
 Mcnc
-----
+-----
 Newsgroups at the MicroElectronics Center of North Carolina, USA.  For
 more information, you can try contacting Gregory G. Woodbury
 <ggw@cs.duke.edu>.
@@ -842,7 +844,7 @@ mcnc.teleclass
 mcnc.text
 
 Melb
-----
+-----
 Newsgroups in Melbourne, Victoria, Australia.
 
 melb.general		Items of general interest in Melbourne.
@@ -869,7 +871,7 @@ mi.sun			Sun Microsystems products in Michigan.
 mi.wanted		Jobs and products, wanted and offered.
 
 Milw
-----
+-----
 Newsgroups in Milwaukee, Wisconsion, USA.
 
 milw.general		Items of general interest in Milwaukee.
@@ -909,7 +911,7 @@ Newsgroups in some unknown place.
 nbg.general
 
 Ncsc
-----
+-----
 Newsgroups at the North Carolina Supercomputing Center.  For more
 information, you can try contacting Gregory G. Woodbury
 <ggw@cs.duke.edu>.
@@ -937,7 +939,7 @@ ne.seminars		New England upcoming talks, seminars, etc.
 ne.wanted		New England want-ads.
 
 Netmbx
-------
+-------
 Newsgroups in some unknown place.  These might be in Germany.
 
 netmbx.pc
@@ -970,7 +972,7 @@ nj.wanted		New Jersey want ads.
 nj.weather		Weather in New Jersey.
 
 Nlnet
------
+------
 Newsgroups in the Netherlands.  Conversation is usually in Dutch, but
 sometimes in English.
 
@@ -982,7 +984,7 @@ nlnet.pico
 nlnet.test		Test messages for nlnet (the Netherlands).
 
 Nmsu
-----
+-----
 Newsgroups at New Mexico State University, in New Mexico, USA.
 
 nmsu.cc.general		computer center general announcements
@@ -1015,7 +1017,7 @@ no.unix			Discussion of the UNIX operating system.
 no.x			Discussions of the X Window System from MIT.
 
 Nordunet
---------
+----------
 Newsgroups for the Nordic University Net (Universities in Sweden,
 Norway, Denmark, Finland, and possible Iceland?).  For more
 information, you can try contacting d9bertil@dtek.chalmers.se.
@@ -1031,7 +1033,7 @@ nordunet.sources	sourcecode
 nordunet.sources.list	list of ditto
 
 North
------
+------
 Newsgroups in some unknown place.  These might be in Germany.
 
 north.market
@@ -1068,7 +1070,7 @@ nyc.general		Items of general interest in ??
 nyc.test		Testing in ??
 
 Nynex
------
+------
 Newsgroups in some unknown place.
 
 nynex.trd.eslab
@@ -1224,7 +1226,7 @@ pnw.sys.sun		Sun users.
 pnw.test		Your vanilla test group.
 
 Princeton
----------
+-----------
 Newsgroups at Princeton University, in New Jersey, USA.  For more
 information, you can try contacting usenet@princeton.edu.
 
@@ -1232,7 +1234,7 @@ princeton.general	Items of general interest to Princeton.
 princeton.grad		Graduates of Princeton.
 
 Purdue
-------
+-------
 Newsgroups at Purdue University.  For more information, you can try
 contacting news@cc.purdue.edu, news@cs.purdue.edu, and/or
 news@ecn.purdue.edu.
@@ -1348,20 +1350,20 @@ sat.sources		Sources in San Antonio.
 sat.test		Testing in San Antonio.
 
 Scot
-----
+-----
 Newsgroups in some unknown place.
 
 scot.general
 
 Scruz
------
+------
 Newsgroups in Santa Cruz, California, USA.
 
 scruz.events		Events in Santa Cruz.
 scruz.general		Items of general interest in Santa Cruz, California.
 
 Sdnet
------
+------
 Newsgroups in San Diego, California, USA.
 
 sdnet.cerfnet		CerfNet issues in San Diego, California.
@@ -1374,13 +1376,13 @@ sdnet.test		USENET Testing in San Diego.
 sdnet.wanted		Items wanted in San Diego, California.
 
 Seattle
--------
+--------
 Newsgroups in Seattle, Washington, USA.
 
 seattle.general		Items of general interest in Seattle, Washington
 
 Sfnet
------
+------
 Newsgroups in Sweden.  For more information, you can try contacting
 Petri Ojala <ojala@cs.hut.fi>.  sfnet.lists.* are imported mailing lists
 are are not distributed outside of Sweden.
@@ -1483,13 +1485,13 @@ Newsgroups in some unknown place.
 slo.stats
 
 Srcext
-------
+-------
 Newsgroups in some unknown place.
 
 srcext.m3
 
 Stgt
-----
+-----
 Newsgroups in some unknown place.  These may be in Germany.
 
 stgt.general
@@ -1558,7 +1560,7 @@ sub.umwelt		Infos zu und sachliche Diskussion ueber Umweltfragen.
 sub.verkehr		Autos sowie umweltfreundlichere Verkehrsmittel.
 
 Swnet
------
+------
 Newsgroups for the SUNET (Swedish University Net, subdivision of
 NORDUNET).  For more information, you can try contacting Bj|rn Eriksen
 <ber@sunic.sunet.se>.
@@ -1620,7 +1622,7 @@ tor.news.stats		USENET Statistics in Toronto, Canada.
 tor.test		Testing in Toronto, Canada.
 
 Triangle
---------
+----------
 Newsgroups at Research Triangle in North Carolina, USA (defacto all of
 North Carolina).  For more information, you can try contacting Gregory
 G. Woodbury <ggw@cs.duke.edu>.
@@ -1676,7 +1678,7 @@ tx.test			Testing in Texas.
 tx.wanted		Texas want ads.
 
 Uberlin
--------
+--------
 Newsgroups in some unknown place.
 
 uberlin.general
@@ -1705,7 +1707,7 @@ Newsgroups in some unknown place.
 uch.general
 
 Uchi
-----
+-----
 Newsgroups at the University of Chicago, in Chicago, USA.  For more
 information, you can try contacting Ellen Keyne Seebacher
 <news@midway.uchicago.edu>.
@@ -1730,7 +1732,7 @@ Newsgroups at the University of Delaware, in Delaware, USA.
 udel.mlists		Mailing lists from udel.
 
 Uiuc
-----
+-----
 Newsgroups in some unknown place.  These seem to be at the University of
 Illinois at Urbana.
 
@@ -1760,7 +1762,7 @@ uk.test			UK wide tests.
 uk.wic			Discussion of Women in Computing.
 
 Upenn
------
+------
 Newsgroups at the University of Penn.  For more information you can try
 contacting Rich Kulawiec <rsk@hazel.circ.upenn.edu>.
 
@@ -1795,7 +1797,7 @@ upenn.test		Software testing.
 upenn.testm		Software testing.
 
 Ut
-----
+-----
 Newsgroups at the University of Texas, in Texas, USA.  For more
 information, you can try contacting Fletcher Mattox
 <fletcher@cs.utexas.edu>.  (Note: there is a namespace collision with
@@ -1851,7 +1853,7 @@ d9bertil@dtek.chalmers.se.
 utc.info		what's up on utc.
 
 Utcs
-----
+-----
 Newsgroups at the University of Texas, Computer Science Department, in
 Texas, USA.  For more information, you can try contacting Fletcher
 Mattox <fletcher@cs.utexas.edu>.
@@ -1990,7 +1992,7 @@ wi.forsale		Items for sale in Wisconsin.
 wi.general		Items of general interest in Wisconsin.
 
 Yale
-----
+-----
 Newsgroups at Yale University in New Haven, CT, USA.  For more
 information you can try contacting Morrow Long <long@cs.yale.edu>.
 
@@ -2056,7 +2058,7 @@ yale.wizards
 yale.zoo-users
 
 York
-----
+-----
 Newsgroups at the York University in Toronto, Ontario, Canada.  For
 more information, you can try contacting davecb@nexus.york.edu.
 
@@ -2151,3 +2153,4 @@ zer.z-netz.unix
 zer.z-netz.verbrauchertips
 zer.z-netz.verkehr
 zer.z-netz.vorschlaege
+----

@@ -1,3 +1,5 @@
+[source]
+----
 Xref: blister news.admin:4316 news.announce.newusers:70
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
@@ -53,7 +55,7 @@ NSFNET or an NSF-affiliated network, send the following mail message
 to the mail-server "info-server@nnsc.nsf.net":
 
 	Request: NSFNET
-	Topic:   CONNECTING           
+	Topic:   CONNECTING
 
 To obtain information on the documents currently available on the
 NSFNET from the info-server, send the following mail message to the
@@ -67,10 +69,11 @@ If you need to contact the people at the NNSC directly, you can either
 send mail or call them.  It would be a good idea to read the NSFNET
 documents first though.
 
-	Electronic Mail:  <nnsc@nnsc.nsf.net> 
+	Electronic Mail:  <nnsc@nnsc.nsf.net>
         Telephone:        +1 (617) 873-3400.
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

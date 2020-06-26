@@ -1,3 +1,5 @@
+[source]
+----
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.lists,news.announce.newusers
 Subject: Publicly Accessible Mailing Lists, Part I
@@ -66,7 +68,7 @@ To add or delete an entry to that list, mail to
 interest-groups-request@nisc.sri.com.
 
 The list does not include any of the many hundreds of lists that are
-available through various Bitnet ListServ sites.  
+available through various Bitnet ListServ sites.
 
 If you have a list that you want added to this posting or are interested in
 starting a list but don't know how, drop me a note at spaf@purdue.edu
@@ -269,7 +271,7 @@ alife
     Contact: alife-request@iuvax.cs.indiana.edu   (Elisabeth Freeman,
                                                    Eric Freeman,
                                                    Marek Lugowski)
- 
+
     Purpose: The alife mailing list is for communications regarding
     artificial life, a formative interdisciplinary field involving
     computer science, the natural sciences, mathematics, medicine and
@@ -339,7 +341,7 @@ anneal
     analysis, as well as other related issues (stochastic
     optimization, Boltzmann machines, metricity of NP-complete move
     spaces, etc).
- 
+
     Membership is restricted to those doing active research in
     simulated annealing or related areas.  Current membership is
     international, and about half of the members are published
@@ -366,7 +368,7 @@ antique-radios
     this topic.  Given the difficulty in finding early radio parts,
     wanted and for-sale ads are encouraged in this forum.  This group
     is set up as a mail reflector.
-  
+
 AoN
     Contact:  aon-request@polyslo.calpoly.edu (Cliff Tuel)
 
@@ -508,7 +510,7 @@ bread
     Contact: bread-request@onion.rain.com  (Jeff Beadles)
 
     Purpose:  Discussion, recipes, and talk about home bread-making
-    machines. 
+    machines.
 
 british-cars
     Contact: british-cars-request@encore.com (Dale C. Cook)
@@ -530,7 +532,7 @@ cabot
     Purpose:  official mailing list of the New York State Institute
     for Sebastian Cabot Studies.
 
-Cards 
+Cards
     Contact:  cards-request@tanstaafl.uchicago.edu (Keane Arase)
 
     Purpose: For people interested in collection, speculation and
@@ -539,7 +541,7 @@ Cards
     are welcome.  Open to anyone.
 
 cavers
-    Contact: cavers-request@m2c.org   -or- 
+    Contact: cavers-request@m2c.org   -or-
 		harvard!m2c!cavers-request (John D. Sutter)
 
     Purpose: Information resource and forum for all interested in
@@ -665,7 +667,7 @@ cryonics
 
 ctree
     Contact:  alberta!oha!ctree-request  (Tony Olekshy)
-    
+
     Purpose: The C-Tree mailing list provides a forum for the
     discussion of FairCom's C-Tree, R-Tree, and D-Tree products.  This
     mailing list is not associated with FairCom.  We have over three dozen
@@ -772,7 +774,7 @@ Dual-Personalities
 
 eastender
     Contact: eastender@karazm.math.uh.edu
-    
+
     Purpose: Discussion of the BBC serial "EastEnders" as it is
     broadcast within the US.  UK'ers are invited, but be warned we're
     about two years behind the UK series.
@@ -781,7 +783,7 @@ eclipse
     Contact: eclipse-request@beach.cis.ufl.edu  (John C. Orthoefer)
 
     Purpose: Info and commentary on the musical group Pink Floyd
-    as well as other projects members of the group have been 
+    as well as other projects members of the group have been
     involved with.
 
 ecuador
@@ -805,7 +807,7 @@ empire-list
 
 emtex-user
     Contact: emtex@methan.chemie.fu-berlin.de (Vera Heinau & Heiko Schlichting)
-         or: emtex@fub.uucp 
+         or: emtex@fub.uucp
 
     Conversation language: German!  Purpose: Informationen ueber das
     Programm emTeX, die zur Zeit beste Implementation von TeX auf
@@ -839,14 +841,14 @@ ethology
     behaviour and behavioural ecology. Possible topics could be e.g.
     new or controversial theories, new research methods, and equipment.
     Announcements of books, papers, conferences, new software for
-    behavioural analysis etc., with possible experiences, are also 
+    behavioural analysis etc., with possible experiences, are also
     encouraged.
 
 euro-moto
     Contact: bowers@elxsi.dfrf.nasa.gov  (Al Bowers)
                 or
              euro-moto@skipper.dfrf.nasa.gov  (Al Bowers)
- 
+
     Purpose: Topics covering all aspects of European motorcycles, for
     enthusiasts of pavement, dirt, classic, modern, rare or common
     European motorcycles.
@@ -975,7 +977,7 @@ fourd
 framers
     Contact uunet!apctrc!drd!framers-request
             framers-request@drd.com (Mark Lawrence)
-    
+
     Purpose: A users forum for sharing of experiences and information
     about the framemaker desktop publishing package from Frame
     Technologies.  The framemaker package is mainly prevalent on Suns
@@ -1039,7 +1041,7 @@ gnu-manual
     Contact:
     	internet: gnu-manual-request@a.cs.uiuc.edu
     	usenet:   uiucdcs!gnu-manual
-    
+
     Purpose: "gnu-manual" members are volunteers who write, proofread,
     and comment on documents for a GNU Emacs Lisp programmers' manual.
 
@@ -1087,7 +1089,7 @@ homebrew
     Purpose: Forum on Beer, homebrewing, and related issues. Though
     mainly intended for discussion of beer making, also welcome are
     discussions on making cider, mead, wine, or any other fermented
-    (but not distilled) beverage. Beginners are welcomed as well 
+    (but not distilled) beverage. Beginners are welcomed as well
     as experienced brewers.
 
 honda
@@ -1179,14 +1181,14 @@ info-encore
     and software issues of Encore computers and ethernet terminal
     servers.
 
-    This mailing list is also gatewayed into the inet list, 
+    This mailing list is also gatewayed into the inet list,
     comp.sys.encore
 
 info-futures
     Contact: harvard!bu-cs!info-futures-request		-or-
 	     info-futures-request@cs.bu.edu
 
-    Purpose: To provide a speculative forum for analyzing current and 
+    Purpose: To provide a speculative forum for analyzing current and
     likely events in technology as they will affect our near future in
     computing and related areas.
 
@@ -1265,7 +1267,7 @@ info-tahoe
 
     The info-tahoe mailing list is set up as a mail reflector.
 
-    This mailing list is also gatewayed into the inet list, 
+    This mailing list is also gatewayed into the inet list,
     comp.sys.tahoe
 
 info-vm
@@ -1365,7 +1367,7 @@ killifish
     cyprinodontidae).
 
 kites
-    Contact: 
+    Contact:
     (USA/Canada/Europe):
 	kites-request@harvard.harvard.edu    harvard!kites-request
     (Japan):
@@ -1398,7 +1400,7 @@ lds
     Purpose: a forum for members of the Church of Jesus Christ of
     Latter-Day Saints (mormons) to discuss church doctrine, mormon
     culture and life in general.  Non-members are welcome to join, but
-    we're not interested in flame wars.  
+    we're not interested in flame wars.
 
 LickVista
      Contact: InfoVista-request@helios.ucsc.edu (Steve Allen)
@@ -1515,7 +1517,7 @@ Matlab
     signal processing, equation solving, control system design, and
     other engineering and scientific applications.  This mailgroup is
     administered by the independent MATLAB User Group.
-	
+
 mazda-list
     Contact: mazda-list-request@ms.uky.edu  (Joel Abbott)
 
@@ -1558,12 +1560,12 @@ mr2-interest
     Purpose:  Discussion of Toyota MR2's, old and new.
 
 mtxinu-users
-    Contact: dunike!mtxinu-users-request 
+    Contact: dunike!mtxinu-users-request
 	     mtxinu-users-request@nike.cair.du.edu
 
     Purpose: Discussion and bug fixes for users of the 4.3+NFS release
     from the Mt. Xinu folks.
- 
+
 muscle-cars
     Contact muscle-cars-request@sorinc.PacBell.COM
             or {ames,hplabs,att,...}!pacbell!sorinc!muscle-cars-request
@@ -1614,7 +1616,7 @@ NA-net
     any order:
        Lastname:
        Firstname:
-       E-mail: 
+       E-mail:
 
 NativeNet
     Contact: gst@gnosys.svle.ma.us (Gary S. Trujillo)
@@ -1849,7 +1851,7 @@ porschephiles
 posix-ada
     Contact:  umd5!grebyn!posix-ada-request	-or-
 	      posix-ada-request@grebyn.com	(Karl Nyberg)
-    
+
     Purpose: to discuss the Ada binding of the Posix
     standard.  This is the IEEE P1003.5 working group.
 
@@ -1877,7 +1879,7 @@ Prion
     bystanders, all are welcome.  All articles posted will be included
     in the next digest.  If a poster feels that his posting is of an
     urgent nature, it may be distributed sooner than the regular
-    digest. 
+    digest.
 
 PRL
     Contact: brewer@ace.dec.com  (John Brewer)
@@ -2001,7 +2003,7 @@ scoodt
     which is also available as a limited distribution newsgroup.
 
 scribe
-    Contact: scribe-hacks-request@decwrl.dec.com 
+    Contact: scribe-hacks-request@decwrl.dec.com
 
     Purpose: This list is designed for persons who perform the role of
     Scribe Database Administrator at their installation.  Discussion
@@ -2036,7 +2038,7 @@ SFER-l		(South Florida Environmental Reader)
 
     Purpose: A monthly digest of environmental articles of interest to
     South Florida residents. The newsletter is available in both paper
-    and electronic formats.  
+    and electronic formats.
 
 sil-info
     Contact: sil-info-request@isf.unisys.com (Tom Jewell)
@@ -2062,11 +2064,11 @@ sil-info
     with the other players "in character" to accomplish your
     character's goals and discover new ones.  Games have been run with
     science fiction, fantasy, historical, and literary themes, as well
-    as others that are difficult to classify. 
+    as others that are difficult to classify.
 
     The mailing list is not limited to discussion of live games, and
     is open to discussion of anything that might be considered
-    Interactive Literature. 
+    Interactive Literature.
 
 silva
     Contact: silva-request@guild.org (Scott Logan)
@@ -2231,7 +2233,7 @@ sysops
     Purpose: The purpose of this list is to facilitate communication
     among operators of computerized bulletin-board systems.  Topics
     will include, but are certainly not limited to: applications,
-    security, legal issues, and software.  
+    security, legal issues, and software.
 
 t3
     Contact:	t3-request@ncsugn.ncsu.edu (Ted H. Emigh)
@@ -2254,7 +2256,7 @@ Talon-Eclipse-Laser
     Contact: talon@appmag.com (Todd Day)
 
     Purpose:  For owners and admirers of Talon, Eclipse or Laser
-    automobiles. 
+    automobiles.
 
 tandy4k
     Contact: ...!{psu-cs,reed,ogcvax}!qiclab!tandy4k-users (Steven Neighorn)
@@ -2315,7 +2317,7 @@ Testing-Archive
     lists or newsgroups.  The mailing list will be archived and made
     available for anonymous FTP via
     cs.uiuc.edu:/pub/testing/archiveXX.  The list is unmoderated.
- 
+
 Testing-Research
     Contact: testing-research-request@ernie.cs.uiuc.edu (Brian Marick)
 
@@ -2385,14 +2387,14 @@ transputer
 
     Submissions should be of non-proprietary nature and be concerned
     with, but not limited to:
-    
+
     	o  Algorithms
     	o  Current development efforts (hardware and software)
     	o  INMOS and third party systems (Meiko, FPS, etc.)
     	o  Interfaces
     	o  Dedicated computational resources
     	o  Occam and Non-Occam language development
-    
+
     Archives of submissions are available by anonymous ftp from the
     host tcgould.tn.cornell.edu (userid "anonymous", password is of the
     form "user@host") and through uucp on a per-request basis.
@@ -2469,7 +2471,7 @@ uruguay
 
 usenet.hist
     Contact: bjones@ucsd.edu (Bruce Jones)
-    
+
     Purpose:  This list is for the discussion of the socio-cultural,
     technical and political history of usenet.  The list is not
     moderated and is open to anyone interested in the history of
@@ -2544,7 +2546,7 @@ windsurfing
     joins.
 
 x-ada
-    Contact: x-ada-request@expo.lcs.mit.edu  
+    Contact: x-ada-request@expo.lcs.mit.edu
 
     Purpose: to discuss the interfaces and bindings for an
     Ada interface to the X window system.
@@ -2606,8 +2608,9 @@ ZForum
     undergoing standardization.  ZForum provides a convenient forum
     for messages and queries concerned with recent developments and
     the use of Z.
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

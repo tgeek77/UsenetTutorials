@@ -1,11 +1,19 @@
-= All you ever wanted to know about Usenet
-:toc:
-
-<<<
+All you ever wanted to know about Usenet
+========================================
+:Author:    Jason Evans
+:Email:     jsevans@big-8.org
+:Date:      26 June 2020
+:Revision:  1.0
 
 == Forward from the year 2020
 
 What year is it?
+
+When you go into your local new bookstore, that is if you still have one around, you might find yourself in the technical book section. You'll find 1000+ page books on the latest latest popular programming languages, "For Dummies" books, and Certification Study books. These books are not written to be kept around for years and yet their prices would tell you that isn't so. Today's MCSE or Cisco certification guide is tomorrow's recycling fodder. The technology moves along, the certification exams evolve and these technical books are forgotten. Some end up in used bookstores. Some of these books linger for years in plastic bins in the attic but mostly once the test is passed, they are just thrown out because they are deemed to be worthless.
+
+The textfiles that are included in this ebook would seem to fit in this category. Some, maybe all of them, are older than your are. They talk about old technologies like UUCP that are nearly dead and forgotten. They center around Usenet which is the original long-form discussion medium on the Internet. Usenet is actually still around and there are still many active groups with great conversations happening.
+
+These files are a glimpse back into the history of the internet and they still have lessons to teach us today. I am writing this at the beginning of summer in the year 2020. I find myself writing, reading, and researching Usenet. Is this an anachronism? Perhaps. Or perhaps, I am digging up the still living remains of something great. Enjoy these files, learn something from them, and apply it to the Internet that you use every day.
 
 == Introduction
 
@@ -48,6 +56,10 @@ Previous Editions:
 1. USENET1.ZIP     August 1990
 2. USENET2.ZIP     February 1991
 3. USNT9105.ZIP    May 1991
+
+:toc:
+
+<<<
 
 == Introduction to news.announce
 include::A[]

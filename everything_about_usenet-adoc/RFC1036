@@ -1,4 +1,5 @@
-
+[source]
+----
 Network Working Group                                          M. Horton
 Request for Comments:  1036                       AT&T Bell Laboratories
 Obsoletes: RFC-850                                              R. Adams
@@ -1060,3 +1061,4 @@ Notes
 
 Horton & Adams                                                 [Page 19]
 
+----

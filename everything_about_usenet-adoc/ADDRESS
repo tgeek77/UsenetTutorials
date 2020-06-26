@@ -1,3 +1,5 @@
+[source]
+----
 Path: micasa!contact!geac!becker!cbmtor!cbmvax!rutgers!usc!zaphod.mps.ohio-state.edu!sdd.hp.com!elroy.jpl.nasa.gov!wciu!art
 From: art@wciu.EDU (Art Nicolaysen)
 Newsgroups: news.newusers.questions
@@ -25,11 +27,11 @@ the "frequent postings" that should be found in news.announce.newusers;
 I also recomend the following books:
 
 	"Using UUCP and Usenet" ,Todino, O'Reilly & Associates
-	(you may send mail to nuts@ora.com for detailed descriptions 
+	(you may send mail to nuts@ora.com for detailed descriptions
 	on this & other helpful books, etc, etc)
 
 	"Life with Unix", Don Libes, Hayden publishers
-	(publisher info not certain, but this book is 
+	(publisher info not certain, but this book is
 	an EXCELLENT source of info not easily found; has
 	a nice "history of Usenet" section.)
 
@@ -76,7 +78,7 @@ Internet.  For our purposes, we can treat the Internet as one huge
 network.)  When you see ARPAnet, JUST THINK INTERNET.  Now back to
 discussion of domains.
 
->understanding is this -- my address is kolstad@cae.wisc.edu.  
+>understanding is this -- my address is kolstad@cae.wisc.edu.
 
 In a domain-based address, as you read from right to left, you go from
 bigger to smaller domains.  Top-level domains (in U.S.A) include edu,
@@ -105,8 +107,8 @@ always exactly match with names given bang-path fashion).
 
 Not quite.  The topmost system in the sender's local domain does a
 query of a system that acts as its "nameserver", to find out how to
-access the local domain where the message is headed.  The nameserver 
-computers contain addressing information that allows two computers 
+access the local domain where the message is headed.  The nameserver
+computers contain addressing information that allows two computers
 on the Internet to make a direct, highspeed connection(~1.54Mbits/sec,
 compared to 9.6Kbits/sec for the fastest modems).  This may not be the
 EXACT way it's done, but you can see the contrast between this and the
@@ -132,16 +134,16 @@ local phone call. (see map below)
     wciu.edu
 
 csvax.caltech.edu was our prior connection to the Internet.
- 
+
 
 Mixing addressing modes:
 
 Addresses with both domain names and bang paths in them can be
 confusing, both to humans and mail forwarding software.  With real
 dumb  forwarders, mixing modes will guarantee misdelivery and
-frustration.  A lot of the time you will see a mixed address when 
-  a)  the destination isn't a registered domain, 
-  b)  the sender doesn't have a decent pathalias database, 
+frustration.  A lot of the time you will see a mixed address when
+  a)  the destination isn't a registered domain,
+  b)  the sender doesn't have a decent pathalias database,
   c)  or a major gateway between networks must be
       traversed (e.g., from the Internet to Bitnet).
 
@@ -166,10 +168,10 @@ How the address is translated depends on whether the domain part or
 the bang part is evaluated first.  I don't think the other reading is
 very plausible, because you're trying to get to a domain via a system
 that doesn't have a domain name.  If  the intention is "deliver to
-ferbie, then gmuvax2.gmu.edu, then hobbes", the address should be 
+ferbie, then gmuvax2.gmu.edu, then hobbes", the address should be
 given as "ferbie!gmuvax2!hobbes", without any any domain syntax.
 
-Here's a real-life example of mixed-mode adressing.  It hardly ever 
+Here's a real-life example of mixed-mode adressing.  It hardly ever
 caused bounced delivery, but I wouldn't recommend you try it.
 
     My address this year, since we got our domain registered, is:
@@ -180,7 +182,7 @@ caused bounced delivery, but I wouldn't recommend you try it.
     "deliver mail to domain csvax.caltech.edu, thence to system wciu,
     thence to user art."
 
-I believe one of the "frequent postings" articles has a detailed 
+I believe one of the "frequent postings" articles has a detailed
 discussion on how and how not to go about forming addresses.
 
 
@@ -192,10 +194,10 @@ discussion on how and how not to go about forming addresses.
 
 You've got Questions 2 and 3 right.  Just remember ARPAnet is dead and
 buried, except for the mention of it in people's .signature files.
-As for Question 1, 
+As for Question 1,
 
     "Usenet is a worldwide network of UNIX computers that run netnews
-    software."		
+    software."
 			Using UUCP and Usenet, p. 106
 
 Usenet consists of both machines that communicate over the Internet, and
@@ -205,12 +207,12 @@ those that use strictly UUCP dial-up connections.
 >I realize that this is a lot to answer, and I thank anybody who can
 >take the time to do it.  Better yet, can anybody recommend a good
 >reference on this bewildering subject?
-> 
+>
 >Thanks in advance to those with the courage to answer! :-)  --> MY <--
 >address on this convoluted (?) network is kolstad@cae.wisc.edu.
-> 
->  
->						---Joel Kolstad 
+>
+>
+>						---Joel Kolstad
 >                                              kolstad@cae.wisc.edu
 
 
@@ -275,8 +277,10 @@ Connections spread like crabgrass, which can lead to some very
 convoluted delivery paths. For example, we have a mail hub here in
 Minnesota administered by the state Unix user group, but mail also
 may go directly to the destination system or hop through several
-other systems. Most areas have no hubs at all. 
--- 
+other systems. Most areas have no hubs at all.
+--
    Steve Yelvington at the (rain-replenished) lake in Minnesota
    steve@thelake.mn.org
 
+
+----

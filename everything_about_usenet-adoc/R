@@ -1,3 +1,5 @@
+[source]
+----
 Xref: blister news.announce.newusers:57 news.admin:4313
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
@@ -266,14 +268,15 @@ WORDS TO LIVE BY #1:
                                      -- Nick Szabo
 
 WORDS TO LIVE BY #2:
- USENET AS ANARCHY  
+ USENET AS ANARCHY
 --------------------
   Anarchy means having to put up with things that really piss you off.
 
                                      -- Unknown
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----

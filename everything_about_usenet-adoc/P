@@ -1,3 +1,5 @@
+[source]
+----
 Xref: blister news.announce.newusers:72 news.groups:7463 news.admin:4318
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!usc!elroy.jpl.nasa.gov!sdd.hp.com!news.cs.indiana.edu!purdue!looking.on.ca!brad
 From: brad@looking.on.ca
@@ -27,12 +29,12 @@ site administrators, and may not be listed in the monthly newsgroup
 list postings despite "approval" by this method. --spaf)
 
 
-To create a group on USENET, you must objectively demonstrate to most  
-USENET admins that the group under consideration is worth carrying on 
-their machines, and thus by default to all of USENET.  
+To create a group on USENET, you must objectively demonstrate to most
+USENET admins that the group under consideration is worth carrying on
+their machines, and thus by default to all of USENET.
 
-One common method of performing this demonstration is to conduct a 
-survey/vote.  Another regular posting in this group describes that method.   
+One common method of performing this demonstration is to conduct a
+survey/vote.  Another regular posting in this group describes that method.
 
 Another method is to give the group a trial run in a smaller section of the
 to see how it does.  This is described below.
@@ -55,24 +57,24 @@ form a mailing list or find another method of distribution.
 
 	JUDGING THE SUITABILITY OF THE TOPIC
 
-If you wish to create a group, you should ensure that you have a topic that 
-is likely to experience varied discussion for a long and indefinite period 
-of time.   The purpose of the group should be clear -- not too general 
-(like, "the IBM PC") and not too specific (like, "squid recipes").  The 
-topic should not be short lived, unless all you want is a 5 month run in 
-the trial hierarchy.   A general topic should be broken down until you have 
-something that is important and likely to generate a moderate volume of 
-discussion.  
+If you wish to create a group, you should ensure that you have a topic that
+is likely to experience varied discussion for a long and indefinite period
+of time.   The purpose of the group should be clear -- not too general
+(like, "the IBM PC") and not too specific (like, "squid recipes").  The
+topic should not be short lived, unless all you want is a 5 month run in
+the trial hierarchy.   A general topic should be broken down until you have
+something that is important and likely to generate a moderate volume of
+discussion.
 
 There are exceptions to this which you can only learn fully through
 experience with USENET.
 
-Next check to see if there isn't already a group on USENET that covers your 
-topic.  If you find a close match, read that group for a while to see if 
-your topic gets discussed there.  Bring it up yourself it you don't see it 
-discussed for a while.  (This is a strong requirement.  You should not 
-propose a new group if you have no familiarity with groups that might well 
-already contain discussion of your topic.) 
+Next check to see if there isn't already a group on USENET that covers your
+topic.  If you find a close match, read that group for a while to see if
+your topic gets discussed there.  Bring it up yourself it you don't see it
+discussed for a while.  (This is a strong requirement.  You should not
+propose a new group if you have no familiarity with groups that might well
+already contain discussion of your topic.)
 
 If it turns out your topic is an offshoot of an existing group, and it is
 in fact already heavily discussed in that group, you may wish to split that
@@ -114,23 +116,23 @@ Write up a proposal, listing:
 
 (See other postings to trial.newgroups for a model proposal.)
 
-The name and USENET hierarchy won't be chosen by you, but you can make 
-suggestions.  A good suggestion that is consistent with other existing 
-names is more likely to be chosen.  Note that a good name must be 
-meaningful to outsiders who are unfamiliar with the topic, so stay away 
-from acronyms or terms known only to insiders.  Unless you want to be 
-ultra-specific about what takes place in the group, a well understood name 
-is better than an extremely precise one.  
+The name and USENET hierarchy won't be chosen by you, but you can make
+suggestions.  A good suggestion that is consistent with other existing
+names is more likely to be chosen.  Note that a good name must be
+meaningful to outsiders who are unfamiliar with the topic, so stay away
+from acronyms or terms known only to insiders.  Unless you want to be
+ultra-specific about what takes place in the group, a well understood name
+is better than an extremely precise one.
 
-E-mail the proposal to trialgroup@uunet.uu.net.  This will send it to all 
-of the volunteer trial group moderators, or "judges."  In addition, the 
-software will randomly pick one of these people to be the judge for your 
-trial group.  The judge will be a person with long experience with USENET, 
-and he or she will offer you help if there is room for improvement in your 
-proposal.  Some further names may also be suggested.  Joke proposals will 
-not be accepted -- a trial newsgroup involves a fair bit of effort and 
-expense by a lot of people, and no matter how funny a joke is, it won't be 
-as long lived as the effort in running a trial group.     
+E-mail the proposal to trialgroup@uunet.uu.net.  This will send it to all
+of the volunteer trial group moderators, or "judges."  In addition, the
+software will randomly pick one of these people to be the judge for your
+trial group.  The judge will be a person with long experience with USENET,
+and he or she will offer you help if there is room for improvement in your
+proposal.  Some further names may also be suggested.  Joke proposals will
+not be accepted -- a trial newsgroup involves a fair bit of effort and
+expense by a lot of people, and no matter how funny a joke is, it won't be
+as long lived as the effort in running a trial group.
 
 [ Don't use the 'trialgroup' address other than to get a judge assigned
 to your group.  That judge will reply to you -- correspond with him or
@@ -172,12 +174,12 @@ ratio valid.)  "USENET groups" means all the accepted groups in the
 7 main hierarchies of USENET, less those that have been truly dormant for
 several months, in the judge's opinion.
 
-If your group ranks among the top 3/4 of USENET groups in readers per site, 
-it gets promoted to a USENET group.   Right now (May/90) this means a 
-readership value of about 1 reader for every 3 sites getting the group, but 
-that may change as USENET grows.  If your group can't find a reader on 2/3 
-of the sites it goes to, it's probably not an appropriate topic for 
-full-net distribution. 
+If your group ranks among the top 3/4 of USENET groups in readers per site,
+it gets promoted to a USENET group.   Right now (May/90) this means a
+readership value of about 1 reader for every 3 sites getting the group, but
+that may change as USENET grows.  If your group can't find a reader on 2/3
+of the sites it goes to, it's probably not an appropriate topic for
+full-net distribution.
 
 Either way, pass or fail, mail a reminder of the results to your judge.
 
@@ -210,13 +212,13 @@ the group.
 
 	FAST PROMOTION:
 
-If a group ever ranks in the top 50% of USENET groups in readers/site, it  
-can, at your discretion, move over to USENET immediately.  Mail to  
+If a group ever ranks in the top 50% of USENET groups in readers/site, it
+can, at your discretion, move over to USENET immediately.  Mail to
 your judge and request the immediate move.   This can happen at any
-time, but the group must get this ranking in the top 50% with 
-results from at least half the trial hierarchy.  (ie. if you only get 6 
-sites reporting in the first month, and they all have 10 readers, it 
-doesn't qualify.)  
+time, but the group must get this ranking in the top 50% with
+results from at least half the trial hierarchy.  (ie. if you only get 6
+sites reporting in the first month, and they all have 10 readers, it
+doesn't qualify.)
 
 	REFUSAL OF A TRIAL
 
@@ -314,14 +316,14 @@ GNU,VMSNET,UNIX-PC,BIONET,CLARI,etc.
 
 Risky business:
 
-As noted, any serious group proposal will be created as a trial.  You may 
-get some advice not to do so from the trial group judges, but if you 
-insist, it will be done.  Some sites, however, will refuse to carry 
-quasi-illegal material, such as groups relating to sex, drugs, porn and 
-other activities that are illegal or discouraged in some parts of the net.  
-Their machines are theirs to command, so it is considered polite to warn 
-everybody about a group with potential danger so that they can make their 
-own decisions.  
+As noted, any serious group proposal will be created as a trial.  You may
+get some advice not to do so from the trial group judges, but if you
+insist, it will be done.  Some sites, however, will refuse to carry
+quasi-illegal material, such as groups relating to sex, drugs, porn and
+other activities that are illegal or discouraged in some parts of the net.
+Their machines are theirs to command, so it is considered polite to warn
+everybody about a group with potential danger so that they can make their
+own decisions.
 
 Appeals:
 
@@ -330,11 +332,11 @@ at least a year, unless something really unusual comes up.  It would
 take very rare circumstances for the trial judges to restart a trial
 in less than six months.
 
-You can, after a trial fails, go through another group creation process, 
-such as a discussion/survey.  Nobody knows what will happen the first time 
-somebody tries this.  I predict that people won't take kindly to this, but 
-who knows.  (Some people may hate the trial system and support you only for 
-that reason.) 
+You can, after a trial fails, go through another group creation process,
+such as a discussion/survey.  Nobody knows what will happen the first time
+somebody tries this.  I predict that people won't take kindly to this, but
+who knows.  (Some people may hate the trial system and support you only for
+that reason.)
 
 Autonomous admins:
 
@@ -345,11 +347,11 @@ particularly at the leafs.  This is true in any group creation system.
 
 Cheating:
 
-Deliberate attempts to bias the arbitron statistics are likely to get 
-discovered.  If you're caught and exposed, it's likely to do you more harm than 
-good.  If there's proof, the judges will cancel your trial, and even if 
-there isn't it is likely that you will anger site admins enough that they 
-ignore the group even if it appears to pass the test.  A suspect passing 
+Deliberate attempts to bias the arbitron statistics are likely to get
+discovered.  If you're caught and exposed, it's likely to do you more harm than
+good.  If there's proof, the judges will cancel your trial, and even if
+there isn't it is likely that you will anger site admins enough that they
+ignore the group even if it appears to pass the test.  A suspect passing
 result can be worse than a failed one -- so don't even risk it.
 
 Running around making sure reader sites send in their honest readership
@@ -359,10 +361,10 @@ on all trial groups, not just yours.
 
 The Judges:
 
-The rules above are deliberately vague to give the judges room to breathe, 
-and to stop control freaks from pointing out nitpicking technical 
-violations.  A technical violation of this procedure is tough, because 
-things are left open.  
+The rules above are deliberately vague to give the judges room to breathe,
+and to stop control freaks from pointing out nitpicking technical
+violations.  A technical violation of this procedure is tough, because
+things are left open.
 
 If you don't like the judges and how they rule, you can always use the
 discussion/survey group creation method.
@@ -397,9 +399,9 @@ but hey, the title sounds neat.  The other 6 volunteers are all system
 admins, from a variety of areas on USENET, who have had several years
 experience with USENET and USENET groups.
 
-All judges will pass on any decision to other volunteer judges 
-if they have a conflict of interest.  (ie. plan to read the group, or 
-participate actively in a similar group.)   
+All judges will pass on any decision to other volunteer judges
+if they have a conflict of interest.  (ie. plan to read the group, or
+participate actively in a similar group.)
 
 The judges really aren't all that powerful.  The *real* decision as to
 whether a group gets created belongs with the readers.  If they like the
@@ -411,3 +413,4 @@ to make a group creation go smoothly.  They aren't there to hinder the
 process, or fight against it.  They get the title "judge" because it sounds
 important, and it means that people will avoid arguing with them over silly
 nitpicky points.
+----

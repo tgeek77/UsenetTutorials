@@ -1,4 +1,5 @@
-
+[source]
+----
 
 
 
@@ -1103,4 +1104,4 @@ How to Use USENET Effectively                                  17
 
 News Version B 2.11                              October 19, 1986
 
-                             
+----

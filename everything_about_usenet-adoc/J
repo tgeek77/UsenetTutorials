@@ -1,3 +1,5 @@
+[source]
+----
 Xref: blister news.lists:180 news.groups:7458 news.announce.newusers:63
 Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
@@ -15,7 +17,7 @@ Supersedes: <14698@ector.cs.purdue.edu>
 [Most recent change: 25 Jul 1991 by spaf@cs.purdue.edu (Gene Spafford)]
 
 The following is a list of currently active USENET newsgroups as of
-25 Jul 1991.  The groups distributed worldwide are divided 
+25 Jul 1991.  The groups distributed worldwide are divided
 into seven broad classifications:  "news", "soc", "talk", "misc",
 "sci", "comp" and "rec".  Each of these classifications is organized
 into groups and subgroups according to topic.
@@ -747,8 +749,10 @@ talk.rumors		For the posting of rumors.
    United States Department of Defense.
 
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+[source]
+----

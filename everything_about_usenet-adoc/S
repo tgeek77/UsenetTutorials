@@ -1,3 +1,5 @@
+[source]
+----
 Path: micasa!moore!telly!comspec!tvcent!lethe!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
 From: spaf@cs.purdue.EDU (Gene Spafford)
 Newsgroups: news.lists,news.admin
@@ -46,12 +48,12 @@ address with more than a single "@" in it is illegal.
 Submissions to moderated groups
 -------------------------------
 When you attempt to post to a moderated newsgroup (indicated by the
-letter "m" in the 4th field of the "active" file for that group), 
+letter "m" in the 4th field of the "active" file for that group),
 the action of "inews" is to mail the submission to the moderator.
 This is done by searching through "mailpaths" file for a keyword
 matching the newgroup being posted to, or, by default, the keyword
 "backbone".  Matching occurs as in the "sys" file -- thus,
-"world" and "all" will also match everything, while "news" or 
+"world" and "all" will also match everything, while "news" or
 "news.all" will only match articles posted in the "news" category.
 This feature can be used to support local moderated groups.
 
@@ -65,12 +67,12 @@ mailers "overreact").  Next, the transformed group name is encoded into
 an address using the format-string present on the line matched from
 "mailpaths" and the article is mailed.  Thus, a posting to "news.lists"
 from a site with the line
-	backbone        emory!gatech!%s 
+	backbone        emory!gatech!%s
 in the mailpaths file would have the article mailed to
 "emory!gatech!news-lists".  Likewise, a line like
 	backbone	%s@gatech.edu
 would result in the article being mailed to "news-lists@gatech.edu".
-To make the mechanism for moderated postings simpler, a subset of the 
+To make the mechanism for moderated postings simpler, a subset of the
 best-connected sites (plus some others) have committed to keeping a complete
 up-to-date set of mail aliases for the moderated groups.  Therefore, to
 build this line in your "mailpaths" file, you need only construct
@@ -139,8 +141,9 @@ The following sites will accept internet-format mail for forwarding:
 	watmath
 
 
--- 
+--
 Gene Spafford
 NSF/Purdue/U of Florida  Software Engineering Research Center,
 Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
 Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825
+----
