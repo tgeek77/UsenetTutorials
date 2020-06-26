@@ -1,0 +1,86 @@
+Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: Introduction to news.announce
+Message-ID: <15394@ector.cs.purdue.edu>
+Date: 25 Jul 91 23:15:50 GMT
+Expires: 23 Oct 91 23:15:50 GMT
+Organization: Dept. of Computer Sciences, Purdue Univ.
+Lines: 74
+Approved: spaf@cs.purdue.EDU
+Supersedes: <14690@ector.cs.purdue.edu>
+
+Original-from: mark@stargate.com (Mark Horton)
+[Most recent change: 19 May 1991 by msb@sq.com (Mark Brader)]
+
+The news.announce hierarchy contains the four moderated newsgroups
+news.announce.important, news.announce.newgroups,
+news.announce.newusers, and news.announce.conferences.
+
+"news.announce.important" is a newsgroup for just what it says it is --
+important announcements.  It is intended to be read by everyone on
+Usenet, although nobody is forced to subscribe.  To post to
+news.announce.important, send mail to the moderator at
+"announce@stargate.com".  Some netnews implementations will
+automatically mail to the moderator anything posted instead of
+attempting to post it directly.  If the message is appropriate, it will
+be posted by the moderator; if not, the moderator will suggest a more
+appropriate place to post it or a better way to go about the same
+goal.
+
+Discussions in news.announce.important are explicitly forbidden, and
+the volume of traffic will be kept low enough to keep people from
+feeling a need to unsubscribe.  Usenet administrators for each site
+should make a point of reading news.announce.important.
+
+The current policy is that news.announce.important submissions must be:
+
+(a) short - preferably they should fit on one crt screen, including headers.
+(b) important enough to at least have their header shown to everyone on the
+    net.  The posting should be more of benefit to the net than to the poster.
+(c) not posted to any other newsgroup - news.announce.important by itself is 
+    supposed to be sufficient to reach everybody, and nobody should have to
+    read an announcement more than once.
+(d) signed - the author should be clearly evident.
+(e) not commercial, political, or religious in nature.
+
+news.announce.newgroups exists for announcements of either the
+creation or the consideration of a new newsgroup.  All calls for
+votes, calls for discussions, vote results, and creation notices of
+all hierarchies should be posted to news.announce.newgroups.
+Submissions should be directed to announce-newgroups@rpi.edu (or to
+your nearest major site).  Followups will be redirected to
+news.groups.
+
+Some messages will be repeated every month, in order to reach all
+newcomers.  These messages will be placed in news.announce.newusers,
+which is also moderated.  This makes it safe for experienced users who
+have already read these messages to unsubscribe to
+news.announce.newusers without missing anything new in
+news.announce.important.  If you aren't familiar with the netnews
+guidelines in news.announce.newusers, please read them carefully.
+Your understanding of these rules will assure that you don't annoy the
+more than 1 million members of the net community (estimated) by
+unintentionally abusing the net, and will help you get more value from
+the net.
+
+news.announce.conference is for announcements of conference programs,
+calls for papers, and things of that kind.  Submissions should be
+directed to nac@tekbspa.tss.com.  Please keep Subject lines
+informative; if space permits, mention the topic and location there,
+and avoid acronyms unless very widely known.
+
+
+	Mark Horton						    Gene Spafford
+	news.announce.important moderator   news.announce.newusers moderator
+	mark@stargate.com					spaf@purdue.edu
+
+ 	David Lawrence				 		Dennis Page
+ 	news.announce.newgroups moderator	news.announce.conferences
+ 	tale@rpi.edu						denny@tekbspa.tss.com
+
+-- 
+Gene Spafford
+NSF/Purdue/U of Florida  Software Engineering Research Center,
+Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
+Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825

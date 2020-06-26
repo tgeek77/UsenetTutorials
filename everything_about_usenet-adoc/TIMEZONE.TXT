@@ -1,0 +1,186 @@
+From: abe@mace.cc.purdue.edu (Vic Abell)
+Newsgroups: comp.mail.misc
+Subject: 3rd posting of timezone abbreviations
+Message-ID: <7676@mace.cc.purdue.edu>
+Date: 6 Jun 91 14:29:40 GMT
+Organization: Purdue University
+Lines: 176
+
+This third time zone abbreviation list update has been made possible with
+the help of the following people:
+
+ Stephen J. Walick <steve@nshore.ncoast.org> pointed out the dateok.c
+   function in C news.
+
+ Geoff Collyer <geoff@world.std.com> and Henry Spencer of C News fame
+   (Geoff authored the dateok.c function, along with Mark Moraes
+   and Rich Walies via Rayan Zachariassen)
+
+ Jon Postel <postel@venera.isi.org> sent me information compiled by
+   Gary Dixon <GDixon@HIS-PHOENIX-MULTICS.ARPA>, Jim Falksen
+   <Falksenj@HIS-PHOENIX-MULTICS.ARPA> and Gary M. Palter
+   <Palter@HIS-PHOENIX-MULTICS.ARPA> of the Multics project, and
+   John Colville of NSWIT, Australia.
+
+   This compilation includes two references:
+
+       Dobyns, Zipporah Pottenger, Ph.D. and MacGregor, Marcian B.
+       "The Astrology Annual Reference Book."  1981.
+
+       Michelsen, Neil F.  "The American Ephemeris, 1971 to 1980."
+
+ Nickolay Saukh <nms@jvd.msk.su> of JV Dialogue, Moscow, USSR supplied
+   information about Moscow time zones.
+
+ The anonymous authors of the BSD timezone() function
+
+ Paul Eggert <eggert@twinsun.com> provided copious comments and also
+   pointed me at Arthur David Olson's timezone database in SunOS
+   4.1's /usr/share/lib/zoneinfo.
+
+ Arthur David Olson compiled a timezone database in SunOS 4.1.
+
+ David Wilson <david@wyvern.cs.uow.edu.au> and <mark@comp.vuw.ac.nz>
+   provided information on the times zones for Australia and
+   New Zealand.
+
+ Trin Tantsetthi, ISE/Thailand <trin@tlaeng.enet.dec.com> supplied
+   information about Thailand Standard Time.
+
+Compiler's apology:  please note that I don't endorse the use of time zone
+abbreviations in mail headers.  Some entries of this list are a reflection
+of non-standard abbreviations in current mail headers -- e. g., BRA, MEX,
+ITA -- and others acknowledge abbreviations that were once used and are now
+obsolete -- e. g., AT, BT, CCT, MT.
+
+Vic Abell <abe@mace.cc.purdue.edu>
+
+Thu Jun 6 09:16:52 EST 1991
+
+Zone     GMT +  Description
+
+ACDT     10:30  Australian Central Daylight
+ACST      9:30  Australian Central Standard
+ADT      -3:00  Atlantic Daylight
+AEDT     11:00  Australian Eastern Daylight
+AES      10:00  Australian Eastern Standard
+AEST     10:00  Australian Eastern Standard
+AHDT     -9:00  Alaska-Hawaii Daylight (1967 to 1983)
+AHST    -10:00  Alaska-Hawaii Standard (1967 to 1983)
+AKDT     -8:00  Alaska Daylight
+AKST     -9:00  Alaska Standard
+AST      -4:00  Atlantic Standard
+AT       -2:00  Azores (obsolete)
+AWDT      8:00  Australian Western Daylight
+AWST      7:00  Australian Western Standard
+BRA      -3:00  Brazil
+BST       1:00  British Summer
+BST      -3:00  Brazil Standard
+BST     -11:00  Bering Summer (1967 to 1983)
+BT        3:00  Baghdad
+BT      -11:00  Bering (until 1967)
+CADT     10:30  Central Australian Daylight
+CAST      9:30  Central Australian Standard
+CAT     -10:00  Central Alaskan Standard (until 1967)
+CCT       8:00  China Coast (obsolete)
+CDT       9:00  China Daylight
+CDT      -5:00  Central Daylight
+CET       1:00  Central European
+CET DST   2:00  Central European Daylight
+CETDST    2:00  Central European Daylight
+CST       8:00  China Standard
+CST       9:30  North/South Australian Central Standard
+CST      -6:00  Central Standard
+DNT       1:00  Dansk Normal
+EAST     10:00  East Australian Standard
+EDT      -4:00  Eastern Daylight
+EET       2:00  Eastern European
+EET DST   3:00  Eastern European Daylight
+EETDST    3:00  Eastern European Daylight
+EMT       1:00  Norway
+EST      -5:00  Eastern Standard
+EST      10:00  Australian Eastern Standard
+FDT      -1:00  Fernando de Noronha Daylight
+FST       2:00  French Summer
+FST      -2:00  Fernando de Noronha Standard
+FWT       1:00  French Winter
+GMT       0:00  Greenwich
+GST      -3:00  Greenland Standard (obsolete)
+GST      10:00  Guam Standard
+HADT     -9:00  Hawaiian-Aleutian Daylight
+HAST    -10:00  Hawaiian-Aleutian Standard
+HDT      -9:30  Hawaiian Daylight (until 1947)
+HFE       2:00  Heure Francais d'Ete
+HFH       1:00  Heure Francais d'Hiver
+HKT       8:00  Hong Kong
+HOE       1:00  Spain
+HST     -10:00  Hawaiian Standard (-10:30 until 1947)
+IDLE     12:00  International Dateline, East
+IDLW    -12:00  International Dateline, West
+IDT       3:00  Israeli Daylight
+IDT       4:30  Iran Daylight
+IST       2:00  Israeli Standard
+IST       3:30  Iran Standard
+IST       5:30  Indian Standard
+IT        3:30  Iran
+ITA       1:00  Italy
+JST       9:00  Japanese Standard
+JT        7:30  Java
+KDT      10:00  Korean Daylight
+KST       9:00  Korean Standard
+LIGT     10:00  Melbourne, Australia
+MAL       8:00  Malaysia
+MAT       3:00  Turkey
+MDT      -6:00  Mountain Daylight
+MEST      2:00  Middle European Summer
+MESZ      2:00  Middle European Summer
+MET       1:00  Middle European
+MET DST   2:00  Middle European Daylight
+METDST    2:00  Middle European Daylight
+MEWT      1:00  Middle European Winter
+MEX      -6:00  Mexico
+MEZ       1:00  Middle European
+MSD       3:00  Moscow Summer
+MSK       2:00  Moscow Winter
+MST      -7:00  Mountain Standard
+MT        8:30  Moluccas (obsolete)
+NDT      -2:30  Newfoundland Daylight
+NFT      -3:30  Newfoundland
+NOR       1:00  Norway
+NST       8:30  North Sumatran (obsolete)
+NST      -3:30  Newfoundland Standard
+NT      -11:00  Nome (until 1967)
+NZDT     13:00  New Zealand Daylight
+NZST     12:00  New Zealand Standard
+NZT      12:00  New Zealand
+PDT      -7:00  Pacific Daylight
+PST      -8:00  Pacific Standard
+SADT     10:30  South Australian Daylight
+SAST      9:30  South Australian Standard
+SET       1:00  European -- Prague, Vienna
+SST       2:00  Swedish Summer
+SST       7:00  South Sumatran (obsolete)
+SST       8:00  Singapore Standard
+SST     -11:00  Samoa Standard
+SWT       1:00  Swedish
+THA       7:00  Thailand Standard
+TST       3:00  Turkish Standard
+UT        0:00  Universal
+UTC       0:00  Universal Time Coordinated
+UTZ      -3:00  Western Greenland Standard
+VTZ      -2:00  Eastern Greenland Standard
+VTZ      -2:00  Western Greenland Daylight
+WADT      8:00  Western Australian Daylight
+WAST      7:00  Western Australian Standard
+WAT       1:00  West African (obsolete)
+WDT       9:00  Western Australian Daylight
+WET       0:00  Western European
+WET DST   1:00  Western European Daylight
+WETDST    1:00  Western European Daylight
+WST       8:00  Australian Western Standard
+WTZ      -1:00  Eastern Greenland Daylight
+WUT       1:00  Austria
+YDT      -8:00  Yukon Daylight
+YST      -9:00  Yukon Standard
+---
+

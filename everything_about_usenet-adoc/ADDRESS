@@ -1,0 +1,282 @@
+Path: micasa!contact!geac!becker!cbmtor!cbmvax!rutgers!usc!zaphod.mps.ohio-state.edu!sdd.hp.com!elroy.jpl.nasa.gov!wciu!art
+From: art@wciu.EDU (Art Nicolaysen)
+Newsgroups: news.newusers.questions
+Subject: Re: Mail addresses
+Keywords: Where in the net am I?
+Message-ID: <1990Aug5.132358.13473@wciu.EDU>
+Date: 5 Aug 90 13:23:58 GMT
+References: <5040@uafhp.uark.edu>
+Distribution: usa
+Organization: William Carey International University
+Lines: 207
+
+In article <5040@uafhp.uark.edu> bbs00068@uafcseg.uucp (Joel Kolstad) writes:
+>
+>
+>I've been using Usenet here for about 6 months, and one thing that
+>still really baffles me is... HOW DO I GET MAIL TO WORK?  Mail works
+>fine if all I want to do is stay of the same system, but once I go
+>cross-country, it's a hit-and-miss game of "mail bounce."
+
+
+I'll try to impart a little bit of what I've picked up in the last two
+years as a Unix troll and news reader.  Best sources for info are in
+the "frequent postings" that should be found in news.announce.newusers;
+I also recomend the following books:
+
+	"Using UUCP and Usenet" ,Todino, O'Reilly & Associates
+	(you may send mail to nuts@ora.com for detailed descriptions 
+	on this & other helpful books, etc, etc)
+
+	"Life with Unix", Don Libes, Hayden publishers
+	(publisher info not certain, but this book is 
+	an EXCELLENT source of info not easily found; has
+	a nice "history of Usenet" section.)
+
+These are good for starters.  Any technical bookstore should be able to
+order these for you, ordinary bookstores, too, if you ask nicely.
+
+
+Disclaimer:
+
+I may not get everything right is what I'm about to say; I don't want
+to lead you into gross errors, so take a look at the books, read the
+"frequent postings", and pester your local experts for advice and
+explanations.
+
+
+Full bang paths:
+
+News and mail originally got sent between machines via ordinary
+modems and phone lines, and the set of programs that make up UUCP
+facilitated the transfers.  Back then, you had to specify the path
+that you wanted to send files, i.e "mail cit-vax!elroy!ames!freddy"
+to send mail to user freddy on system ames.  This method of addressing
+is commonly known as "bang-path" addressing ("!" is pronounced "bang").
+
+
+Mailing via pathalias:
+
+As the number of systems that ran used UUCP grew, the software
+incoporated a database of paths to different systems; this is still in
+use on a lot of systems, and goes by the name of pathalias.  With an
+up-to-date pathalias database on my system, I no longer have to worry
+about giving a full bang-path address.  Using the example above, I can
+send mail to freddy at ames by entering "mail ames!freddy", and the
+mail software will query the pathalias database for the routing info.
+
+
+Domains and domain addressing:
+
+The newest method for specifying addresses is known as "domain-based"
+addressing.  This notation has been adopted from addressing
+conventions used on the ARPAnet. (ARPAnet is no longer around, having
+been replaced by a collection of interconnected networks known as the
+Internet.  For our purposes, we can treat the Internet as one huge
+network.)  When you see ARPAnet, JUST THINK INTERNET.  Now back to
+discussion of domains.
+
+>understanding is this -- my address is kolstad@cae.wisc.edu.  
+
+In a domain-based address, as you read from right to left, you go from
+bigger to smaller domains.  Top-level domains (in U.S.A) include edu,
+org, com, mil, gov, and net.  Country abbreviations are valid
+top-level domains (i.e. well.sf.ca.us, system well, in SanFrancisco,
+etc).  To my knowledge, UUCP is a pseudo-domain used when a system
+doesn't have a valid registered domain.
+
+For your address, wisc is a 2nd-level domain, cae is a system within
+that domain (3rd level domains are possible), and kolstad is a user
+(natch).  The outside world only has to worry about getting mail to the
+system given in the 2nd level, which then routes it to the local
+system and user.
+
+
+Mailing via domain names:
+
+Again, using the original example, I now send mail to freddy as
+follows: "mail freddy@ames.nasa.gov" (names given domain-fashion don't
+always exactly match with names given bang-path fashion).
+
+>When I mail something off, say to bogus@uxa.cso.uiuc.edu, the letter
+>works its way up the three until it comes to a node it recognizes --
+>edu, in this case -- and then works its way back down through uiuc to
+>cso, uxa, and finally to Mr. Bogus, right?
+
+Not quite.  The topmost system in the sender's local domain does a
+query of a system that acts as its "nameserver", to find out how to
+access the local domain where the message is headed.  The nameserver 
+computers contain addressing information that allows two computers 
+on the Internet to make a direct, highspeed connection(~1.54Mbits/sec,
+compared to 9.6Kbits/sec for the fastest modems).  This may not be the
+EXACT way it's done, but you can see the contrast between this and the
+UUCP-only method, where the message is passsed on by a number of
+intermediate systems.
+
+I have to point out that you don't have to have a physical connection
+to the Internet to utilize domain-based addressing.  We are registered
+as wciu.edu, have other machines within our local domain, and have
+a listing in a nameserver with a MX (mail exchange) record that shows
+what Internet-connected system handles our mail.  We connect to this
+system with UUCP and a modem, and have access to the world with a
+local phone call. (see map below)
+
+
+            elroy.nasa.gov ==========================
+	      /     [
+	     /       [
+	    /         [
+           /           [
+          /       csvax.caltech.edu
+         /
+    wciu.edu
+
+csvax.caltech.edu was our prior connection to the Internet.
+ 
+
+Mixing addressing modes:
+
+Addresses with both domain names and bang paths in them can be
+confusing, both to humans and mail forwarding software.  With real
+dumb  forwarders, mixing modes will guarantee misdelivery and
+frustration.  A lot of the time you will see a mixed address when 
+  a)  the destination isn't a registered domain, 
+  b)  the sender doesn't have a decent pathalias database, 
+  c)  or a major gateway between networks must be
+      traversed (e.g., from the Internet to Bitnet).
+
+
+>OK, assuming I'm right so far, let me tack on some other questions:
+>What in the world do all those !'s in an address mean?  Such as
+>ferbie!hobbes@gmuvax2.gmu.edu?  Is the stuff following the ! yet
+>address that relates to a tree, except that now we're talking machine
+>names instead of addresses?  In other words, would mailing the
+>previous address get to the machine gmuvax2, which in turn is
+>connected to a bunch of little machines, including hobbes?  Am I
+>totally confused or what?
+
+Remember that bang-paths get more specific as you read left to right,
+and domain names have smaller scope as you read right to left.
+I would (and hope a decent mail forwarder would) read the address
+above as:
+    "Deliver to system gmuvax2 within domain gmu.edu, thence to
+    system ferbie, thence to user hobbes."
+
+How the address is translated depends on whether the domain part or
+the bang part is evaluated first.  I don't think the other reading is
+very plausible, because you're trying to get to a domain via a system
+that doesn't have a domain name.  If  the intention is "deliver to
+ferbie, then gmuvax2.gmu.edu, then hobbes", the address should be 
+given as "ferbie!gmuvax2!hobbes", without any any domain syntax.
+
+Here's a real-life example of mixed-mode adressing.  It hardly ever 
+caused bounced delivery, but I wouldn't recommend you try it.
+
+    My address this year, since we got our domain registered, is:
+	art@wciu.edu.
+    Last year, because wciu.edu wasn't available, I used
+	wciu!art@csvax.caltech.edu.
+    Interpreted as:
+    "deliver mail to domain csvax.caltech.edu, thence to system wciu,
+    thence to user art."
+
+I believe one of the "frequent postings" articles has a detailed 
+discussion on how and how not to go about forming addresses.
+
+
+>Finally, can somebody distinguish between UUCP, Internet, Usenet, and
+>Arpanet for me!?  UUCP to me is a Unix-to-Unix copy program, right?
+>So people with UUCP addresses are on machines that don't have direct
+>connectors to the Inter/Use/Arpa Net and just call up (presumably)
+>other machines every now and then to get mail for them, right?
+
+You've got Questions 2 and 3 right.  Just remember ARPAnet is dead and
+buried, except for the mention of it in people's .signature files.
+As for Question 1, 
+
+    "Usenet is a worldwide network of UNIX computers that run netnews
+    software."		
+			Using UUCP and Usenet, p. 106
+
+Usenet consists of both machines that communicate over the Internet, and
+those that use strictly UUCP dial-up connections.
+
+
+>I realize that this is a lot to answer, and I thank anybody who can
+>take the time to do it.  Better yet, can anybody recommend a good
+>reference on this bewildering subject?
+> 
+>Thanks in advance to those with the courage to answer! :-)  --> MY <--
+>address on this convoluted (?) network is kolstad@cae.wisc.edu.
+> 
+>  
+>						---Joel Kolstad 
+>                                              kolstad@cae.wisc.edu
+
+
+__
+Art Nicolaysen          William Carey Int'l University (Global Mapping)
+art@wciu.edu            Pasadena CA 91104
+
+*************************************************************************
+
+From: steve@thelake.mn.org (Steve Yelvington)
+Newsgroups: news.newusers.questions
+Subject: Re: Re: uucp addresses
+Message-ID: <A1411716351@thelake.mn.org>
+Date: 31 Jul 90 15:33:10 GMT
+References: <shj.649396495@dkuugin>
+Organization: Otter Lake Leisure Society
+Lines: 48
+X-Member-Of:  STdNET
+X-Bad-Pun:    There's no place like Nome for the Hollandaise.
+
+[In article <shj.649396495@dkuugin>,
+     shj@login.dkuug.dk (Stig Jacobsen) writes ... ]
+
+> When an address ends in 'uucp' (xx@yy.zz.uucp) where does it go? To
+> a global UUCP server, that does manual dialouts for all the mail or to
+> local servers in each country or region or ? (Just curious..).
+> --
+> Stig Jacobsen
+> shj@login.dkuug.dk
+> fidonet 2:231/16.0
+
+It depends on where you are and how your computer is set up. If you
+have old/stupid software it may not go anywhere at all.
+
+UUCP mail is designed to hop through multiple systems. UUCP uses
+paths, not addresses, of the form
+
+    neighbor1!neighbor2!neighbor3!mailbox
+
+If you have a "smart mailer" program, it will convert Internet-style
+addresses into this form. "bush@whitehouse.UUCP" would become
+"whitehouse!bush". If your system did not connect with whitehouse, it
+would have a delivery problem.
+
+Fortunately, there are maps of connectivity. That is what the UUCP
+Project is all about. (See comp.mail.maps.) Sites publish their
+connections, and the published data can be fed to a program
+(pathalias) that will produce a paths table from the perspective of
+your site. A smart mailer then can employ the paths table to route
+the mail properly.
+
+Not everybody has the resources to maintain a database of all the
+UUCP systems in the world. Enter the "smart host" concept. A mailer
+can be configured to "kick upstairs" any undeliverable mail to
+another system that presumably has more complete records.
+
+In Europe, UUCP connectivity tends to be highly structured in
+regional hub-and-spoke arrangements. It also costs money.
+
+In North America, UUCP is uncontrolled and free (cooperative).
+Connections spread like crabgrass, which can lead to some very
+convoluted delivery paths. For example, we have a mail hub here in
+Minnesota administered by the state Unix user group, but mail also
+may go directly to the destination system or hop through several
+other systems. Most areas have no hubs at all. 
+-- 
+   Steve Yelvington at the (rain-replenished) lake in Minnesota
+   steve@thelake.mn.org
+

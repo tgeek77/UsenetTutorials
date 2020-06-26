@@ -1,0 +1,1168 @@
+Xref: blister news.lists:188 news.announce.newusers:74
+Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!think.com!samsung!news.cs.indiana.edu!purdue!gynko.circ.upenn.edu!rsk
+From: rsk@gynko.circ.upenn.edu
+Newsgroups: news.lists,news.announce.newusers
+Subject: List of Periodic Informational Postings
+Message-ID: <15410@ector.cs.purdue.edu>
+Date: 25 Jul 91 23:16:15 GMT
+Expires: 23 Oct 91 23:16:15 GMT
+Sender: spaf@cs.purdue.EDU
+Reply-To: rsk@gynko.circ.upenn.edu
+Followup-To: news.lists
+Lines: 1153
+Approved: spaf@cs.purdue.EDU
+Supersedes: <14706@ector.cs.purdue.edu>
+
+Original-from: rsk@gynko.circ.upenn.edu (Rich Kulawiec)
+[Most recent change: 22 Jul 91 by rsk@gynko.circ.upenn.edu (Rich Kulawiec)]
+
+
+Many newsgroups contain articles which are posted on a periodic basis.
+These articles tend to be useful for both novice and experienced
+users, as they usually fall into one of these categories:
+
+    1. How-to articles explaining some of the basics and fine
+    points of network usage, etiquette, standards, etc.
+
+    2. Introductory notes about one or more newsgroups, covering
+    policies (if any) for submissions to that group, usage, etc.
+    Common questions and answers pertinent to a newsgroup(s).
+
+    3. Indexes of archives, or pointers to archives for various
+    groups.  Periodic newsletters, calendars, pointers to
+    publications.
+
+    4. Statistical information and reports about Usenet; tables of
+    Usenet hosts, links, etc.
+
+    5. Miscellany, including small useful sources, "fun" lists, and so
+    on.
+
+This is a list of the periodic postings known at this time; each
+posting is listed in an entry that includes who posts the article,
+which newsgroup(s) it appears in, what "Subject" line is used, and how
+often the article is posted.  The list is sorted by the "Newsgroups"
+line.  The character '*' is used as a wildcard, e.g. "v**INF1" matches
+"v01INF1", "v02INF1", etc.
+
+Corrections and additions (via MAIL) are most welcome.
+
+----------------------------------------------------------------------
+
+3/21/90
+
+Jonathan Kamens of MIT's Project Athena has kindly set up an archive
+of periodic postings; the archive is constructed by a shell script
+which reads this article, using it as a guide as to which postings
+should be archived.  What follows is a condensed excerpt of his article
+announcing this archive...
+
+This archive is on "pit-manager.mit.edu" (18.72.1.58), and is accessible
+via anonymous ftp in the directory "/pub/usenet".  The structure of
+this directory is such that each subdirectory is a newsgroup name, and
+the files in the subdirectories are the periodic postings.  The filenames
+are constructed by mapping the titles to filenames in a pretty simple way, e.g.
+
+    /pub/usenet/news.announce.newusers/Answers_to_Frequently_Asked_Questions
+
+The archive is also accessible via mail archive server.  The address of the
+server is mail-server@pit-manager.mit.edu.  The names are the same, with the
+"/pub/" chopped off.  To retrieve the file mentioned above, you would send
+mail to the mail-server with a subject or body of
+
+    send usenet/news.announce.newusers/Answers_to_Frequently_Asked_Questions
+
+You can also do "send help", "send index", "send usenet/index", "send
+usenet/news.announce.newusers/index", etc.
+
+  Comments, questions, suggestions, etc. can be sent to me at the address
+below, or at {root,jik,postmaster,daemon}@pit-manager.mit.edu.  Feel free to
+mention this service in any informational postings you may maintain; I hope to
+keep it up and running for a while.
+
+
+Jonathan Kamens			              USnail:
+MIT Project Athena				11 Ashford Terrace
+jik@Athena.MIT.EDU				Allston, MA  02134
+Office: 617-253-8085			      Home: 617-782-0710
+
+----------------------------------------------------------------------
+
+From: mdchaney@bronze.ucs.indiana.edu (M Darrin Chaney)
+Newsgroups: alt.folklore.urban
+Subject: Monthly Posting
+Frequency: monthly
+
+From: jef@well.sf.ca.us
+Newsgroups: alt.hackers
+Subject: (*) Welcome to alt.hackers -- automated posting.
+Frequency: weekly
+
+From: brendan@cs.widener.edu (Brendan Kehoe)
+Newsgroups: alt.tv.simpsons
+Subject: Monthly Posting: Frequently Asked Questions
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: ca.earthquakes,misc.emerg-services
+Subject: [lm **/**] Frequently asked earthquake references (where to find)
+Frequency: biweekly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: ca.general,ba.general
+Subject: [l/m **/**] How to cancel news articles
+Frequency: biweekly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: ca.general,ba.general
+Subject: [l/m **/**] Reminders for old hands and new readers ([b|c]a.general)
+Frequency: biweekly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: ca.general,ba.general
+Subject: [l/m **/**] A short note on Distribution:
+Frequency: biweekly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: ca.general,ba.general
+Subject: [l/m **/**] Kill files . . . with extreme prejudice
+Frequency: biweekly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: ca.general,ba.general
+Subject: [l/m **/**] A short note on posting, cross-posting
+Frequency: biweekly
+
+From: odin@ucscb.UCSC.EDU (Jon Granrose)
+Newsgroups: comp.archives,comp.misc
+Subject: Anonymous FTP list
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: comp.benchmarks
+Subject: [l/m */*/**] benchmark info sources [under construction] 
+Frequency: monthly
+
+From: koreth@panarthea.EBay.Sun.COM (Steven Grimm)
+Newsgroups: comp.binaries.atari.st
+Subject: v**INF3: How to use comp.binaries.atari.st
+Frequency: every few months
+
+From: boneill@hawk.ulowell.edu (Brian O'Neill)
+Newsgroups: comp.binaries.ibm.pc
+Subject: v**INF1: bin.man, Beginner's Guide to Binaries
+Frequency: monthly
+
+From: boneill@hawk.ulowell.edu (Brian O'Neill)
+Newsgroups: comp.binaries.ibm.pc
+Subject: v**INF2: ftp.man, Beginner's Guide to FTP
+Frequency: monthly
+
+From: boneill@hawk.ulowell.edu (Brian O'Neill)
+Newsgroups: comp.binaries.ibm.pc
+Subject: v**INF3: starter.kit, CBIP Starter's Kit
+Frequency: monthly
+
+From: dhesi@bsu-cs.bsu.edu (Rahul Dhesi)
+Newsgroups: comp.binaries.ibm.pc
+Subject: v**INF4: format.inf, description of format of postings
+Frequency: monthly
+
+From: dhesi@bsu-cs.bsu.edu (Rahul Dhesi)
+Newsgroups: comp.binaries.ibm.pc
+Subject: v**iINF5: clarkson.inf, Clarkson comp.binaries.ibm.pc archives
+Frequency: monthly
+
+From: chip@vector.dallas.tx.us (Chip Rosenthal)
+Newsgroups: comp.dcom.telecom
+Subject: "Welcome to comp.dcom.telecom!"
+Frequency: monthly
+
+From: lee@sq.com (Liam R. E. Quin)
+Newsgroups: comp.fonts,comp.text.tex
+Subject: Definitive list of all fonts available for Metafont
+Frequency: every six weeks or so
+
+From: jef@well.sf.ca.us (Jef Poskanzer)
+Subject: (04feb91) Frequently asked questions - READ THIS BEFORE YOU POST.
+Newsgroups: comp.graphics
+Frequency: weekly
+
+From: scs@adam.mit.edu (Steve Summit)
+Newsgroups: comp.lang.c
+Subject: Answers to Frequently Asked Questions (FAQ) on comp.lang.c
+Frequency: monthly
+
+From: scs@adam.mit.edu (Steve Summit)
+Newsgroups: comp.lang.c
+Subject: Answers to Frequently Asked Questions (FAQ) on comp.lang.c (Abridged)
+Frequency: semimonthly
+
+From: scs@adam.mit.edu (Steve Summit)
+Newsgroups: comp.lang.c
+Subject: Changes to Answers to Frequently Asked Questions (FAQ) on comp.lang.c
+Frequency: monthly
+
+From: jcc@adesign.uucp (Collet Jean-Christophe)
+Newsgroups: comp.lang.c++
+Subject: C++ products & books list
+Frequency: monthly
+
+From: syd@DSI.COM (Syd Weinstein)
+Newsgroups: comp.mail.elm
+Subject: Elm Group monthly posting - * * 
+Frequency: monthly
+
+From: uucpmap@rutgers.rutgers.edu (UUCP Mapping Project)
+Newsgroups: comp.mail.maps
+Subject: UUCP map for ******
+Frequency: monthly
+
+From: Bill Wohler <wohler@sap-ag.de>
+Newsgroups: comp.mail.mh
+Subject: MH Frequently Asked Questions (FAQ) with Answers
+Frequency: monthly
+
+From: john@utcs.utoronto.ca (John Chew)
+Newsgroups: comp.mail.misc,news.newusers.questions
+Subject: Inter-Network Mail Guide
+Frequency: monthly
+
+From: cpcahil@virtech.uucp (Conor P. Cahill)
+Newsgroups: comp.misc,comp.sources.wanted,comp.unix.questions,news.newusers.questions,news.software.b
+Subject: Monthly posting on USENET manual set
+Frequency: monthly
+
+From: usenet@chg.mcd.mot.com (Newprod Moderator)
+Newsgroups: comp.newprod
+Subject: comp.newprod Guidelines
+Frequency: four times a year
+
+From: ctp@cs.utexas.edu (Clyde T. Poole)
+Newsgroups: comp.org.decus,comp.os.vms,comp.sys.dec
+Subject: DECUS Questions Answered
+Frequency: monthly
+
+From: pozar@toad.com (Tim Pozar)
+Newsgroup: comp.org.fidonet
+Subject: FidoNews
+Frequency: weekly
+
+From: Glen Overby <overby@plains.nodak.edu>
+Newsgroups: comp.os.minix
+Subject: the Minix Information Sheet
+Frequency: monthly
+
+From: tp@mccall.com
+Newsgroups: comp.os.vms,vmsnet.misc
+Subject: Info-VAX Monthly Posting, Part 1 of 3
+Frequency: monthly
+
+From: tp@mccall.com
+Newsgroups: comp.os.vms,vmsnet.misc
+Subject: Info-VAX Monthly Posting, Part 2 of 3
+Frequency: monthly
+
+From: tp@mccall.com
+Newsgroups: comp.os.vms,vmsnet.misc
+Subject: Info-VAX Monthly Posting, Part 3 of 3
+Frequency: monthly
+
+From: koreth@panarthea.EBay.Sun.COM (Steven Grimm)
+Newsgroups: comp.sources.atari.st
+Subject: ????
+Frequency: every few months
+
+From: reid@decwrl.DEC.COM (Brian Reid)
+Newsgroups: comp.sources.d,news.admin
+Subject: arbitron program (v*.*.*--last updated * *** ****)
+Frequency: monthly
+
+From: reid@decwrl.DEC.COM (Brian Reid)
+Newsgroups: comp.sources.d,news.admin
+Subject: notesfile arbitron (v*--last updated * *** ****)
+Frequency: monthly
+
+From: billr@saab.cna.tek.com (Bill Randle)
+Newsgroups: comp.sources.games
+Subject: v**INF1
+Frequency: start of every volume, which is 3-6 months...
+
+From: kent@sparky.imd.sterling.com (Kent Landfield)
+Newsgroups: comp.sources.misc
+Subject: v**INF1: Introduction to comp.sources.misc
+Frequency: start of every volume, which is 1-3 months..
+
+From: kent@sparky.imd.sterling.com (Kent Landfield)
+Newsgroups: comp.sources.misc
+Subject: v**INF2: Index for comp.sources.misc, Volume1 through Volume7
+Frequency: start of every volume, which is 1-3 months..
+
+From: kent@sparky.imd.sterling.com (Kent Landfield)
+Newsgroups: comp.sources.misc
+Subject: v**INF3: Index for comp.sources.misc, Volume8 through Volume14
+Frequency: start of every volume, which is 1-3 months..
+
+From: kent@sparky.imd.sterling.com (Kent Landfield)
+Newsgroups: comp.sources.misc
+Subject: v**INF4: Index for comp.sources.misc, Volume15 through Volume**
+Frequency: start of every volume, which is 1-3 months..
+
+From: kent@sparky.imd.sterling.com (Kent Landfield)
+Newsgroups: comp.sources.misc
+Subject: v**INF5: Index of Patches posted to comp.sources.misc
+Frequency: start of every volume, which is 1-3 months..
+
+From: mcgrew@dartagnan.rutgers.edu (Charles Mcgrew)
+Newsgroups: comp.sources.sun
+Subject: v**INF3: Location and format of ftp archive site
+Frequency: start of every volume, which is 3-6 months...
+
+From: rsalz@bbn.com (Rich Salz)
+Newsgroup: comp.sources.unix
+Subject: V**INF1:  Introduction to comp.sources.unix
+Frequency: start of every volume, which is 3-6 months...
+
+From: rsalz@bbn.com (Rich Salz)
+Newsgroup: comp.sources.unix
+Subject: V**INF2:  List of sources in the archive
+Frequency: start of every volume, which is 3-6 months...
+
+From: jik@athena.mit.edu (Jonathan I. Kamens)
+Subject: How to find sources (READ THIS BEFORE POSTING)
+Newsgroups: comp.sources.wanted,alt.sources.wanted
+Frequency: biweekly
+
+From: argv%island@uunet.uu.net (Dan Heller)
+Newsgroups: comp.sources.x
+Subject: v**INF1: README
+Frequency: start of every volume, which is 3-6 months...
+
+From: argv%island@uunet.uu.net (Dan Heller)
+Newsgroups: comp.sources.x
+Subject: v**INF2: Archive Listings
+Frequency: start of every volume, which is 3-6 months...
+
+From: argv%island@uunet.uu.net (Dan Heller)
+Newsgroups: comp.sources.x
+Subject: v**INF3: patchlogs
+Frequency: start of every volume, which is 3-6 months...
+
+From: std-unix@uunet.uu.net (Moderator, John S. Quarterman)
+Newsgroups: comp.std.unix
+Subject: Access to UNIX-Related Standards
+Frequency: bi-monthly
+
+From: std-unix@uunet.uu.net (Moderator, John S. Quarterman)
+Newsgroups: comp.std.unix
+Subject: Calendar of UNIX-related Events
+Frequency: monthly
+
+From: std-unix@uunet.UU.NET (Moderator, John S. Quarterman)
+Newsgroups: comp.std.unix,comp.org.usenix,comp.unix.questions
+Subject: Access to UNIX User Groups
+Frequency: bi-monthly
+
+From: std-unix@uunet.UU.NET (Moderator, John S. Quarterman)
+Newsgroups: comp.std.unix,comp.org.usenix,comp.unix.questions
+Subject: Access to UNIX-Related Publications
+Frequency: bi-monthly
+
+From: ferry@chorus.fr (Ferry de Jong)
+Newsgroups: comp.sys.amiga.introduction
+Subject: Usage of comp.sys.amiga.* and Netiquette V*.*
+Frequency: monthly
+
+From: ferry@chorus.fr (Ferry de Jong)
+Newsgroups: comp.sys.amiga.introduction
+Subject: Amiga newsgroups under comp.sys.amiga.* V*.*
+Frequency: monthly
+
+From: ferry@chorus.fr (Ferry de Jong)
+Newsgroups: comp.sys.amiga.introduction
+Subject: Frequently Asked Questions and Answers V*.* (*** ****)
+Frequency: monthly
+
+From: unix-pc@zorch.sf-bay.org (Scott Hazen Mueller)
+Newsgroups: comp.sys.att
+Subject: Monthly posting about Unix-PC network
+Frequency: monthly
+
+From: raymond@math.berkeley.edu (Raymond Chen)
+Newsgroups: comp.sys.ibm.pc.misc
+Subject: Frequently Asked Questions: READ THIS BEFORE YOU POST
+Frequency: monthly
+
+From: geoff@pmafire.inel.gov (Geoff Allen)
+Newsgroups: comp.sys.mac.announce
+Subject: Answers to Frequently Asked Questions
+Frequency: monthly
+
+From: geoff@pmafire.inel.gov (Geoff Allen)
+Newsgroups: comp.sys.mac.announce
+Subject: About Macintosh Usenet Groups
+Frequency: monthly
+
+From: csn-announce@media.mit.edu
+Newsgroups: comp.sys.next.announce
+Subject: FAQ-1/3: Answers to Frequently Asked Questions
+Frequency: monthly
+
+From: csn-announce@media.mit.edu
+Newsgroups: comp.sys.next.announce
+Subject: FAQ-2/3: Answers to Frequently Asked Questions
+Frequency: monthly
+
+From: csn-announce@media.mit.edu
+Newsgroups: comp.sys.next.announce
+Subject: FAQ-3/3: Answers to Frequently Asked Questions
+Frequency: monthly
+
+From: csn-announce@media.mit.edu
+Newsgroups: comp.sys.next.announce
+Subject: FAQ-TOC: Answers to Frequently Asked Questions
+Frequency: monthly
+
+From: rgreene@ricecsvm.rice.edu (Bob Greene)
+Newsgroups: comp.sys.sun
+Subject: Monthly Intro Message
+Frequency: monthly
+
+From: bobby@hot.caltech.edu (Bobby Bodenheimer)
+Newsgroups: comp.text.tex
+Subject: Frequently Asked Questions about TeX, etc. - with Answers [Monthly] 
+Frequency: monthly
+
+From: raymond@math.berkeley.edu (Raymond Chen)
+Newsgroups: comp.text.tex
+Subject: Supplementary TeX Information
+Frequency: monthly
+
+From: sahayman@iuvax.cs.indiana.edu (Steve Hayman)
+Newsgroups: comp.unix.questions
+Subject: Frequently Asked Questions about Unix - with Answers
+Frequency: monthly
+
+From: sahayman@iuvax.cs.indiana.edu (Steve Hayman)
+Newsgroups: comp.unix.questions
+Subject: Welcome to comp.unix.questions
+Frequency: monthly
+
+From: virtech!cpcahil@uunet.uu.net (Conor P. Cahill)
+Newsgroups: comp.unix.sysv386
+Subject: Welcome to comp.unix.sysv386 (AKA Frequently Asked Questions)
+Frequency: monthly
+
+From: jan@pandonia.canberra.edu.au (Jan Newmarch)
+Newsgroups: comp.windows.x.motif
+Subject: Frequently Asked Questions about Motif (Part * of *)
+Frequency: monthly
+
+From: xug@lta.com (X User's Group)
+Newsgroups: comp.windows.x
+Subject: Frequently Asked Questions about X with Answers */3 [long monthly posting]
+Frequency: monthly
+
+From: jbw@bigbird.bu.edu (Joe Wells)
+Newsgroups: gnu.emacs.help,comp.emacs
+Subject: GNU Emacs Frequently Asked Questions with Answers (part * of *)
+Frequency: monthly
+
+From: jbw@bigbird.bu.edu (Joe Wells)
+Newsgroups: gnu.emacs.help,comp.emacs
+Subject: GNU Emacs Frequently Asked Questions with Answers (differences)
+Frequency: monthly
+
+From: murray@sun13.scri.fsu.edu (John Murray)
+Newsgroups: misc.forsale
+Subject: Welcome to Misc.forsale - Frequently Asked Questions (please read!)
+Frequency: monthly
+
+From: sopwith!snoopy (Snoopy)
+Newsgroups: misc.jobs.misc, misc.jobs.offered, misc.jobs.resumes
+Subject: Welcome to misc.jobs!
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: misc.jobs.offered
+Subject: [l/m **/**] Read BEFORE posting: offered stylistic consensus
+Frequency: biweekly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: misc.jobs.resumes
+Subject: [l/m **/**] Read BEFORE posting: Stylistic consensus on resumes
+Frequency: biweekly
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin
+Subject: Checkgroups message (with INET groups)
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin
+Subject: Checkgroups message (without INET groups)
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin,news.announce.newusers
+Subject: How to Get Information about Networks
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin,news.announce.newusers
+Subject: USENET Software: History and Sources
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: A Primer on How to Work With the Usenet Community
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: Answers to Frequently Asked Questions
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: Emily Postnews Answers Your Questions on Netiquette
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: Hints on writing style for Usenet
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: Introduction to news.announce
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.announce.newusers
+Subject: Regional Newsgroup Hierarchies
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: Rules for posting to Usenet
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers,news.groups,news.admin
+Subject: How to Create a New Newsgroup
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers,news.groups,news.admin
+Subject: How to Create a New Trial Newsgroup
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers,news.lists
+Subject: List of Periodic Informational Postings
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.misc
+Subject: Changes to Alternative Newsgroup Hierarchies
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers,news.admin
+Subject: What is Usenet?
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers,news.groups
+Subject: A Guide to Social Newsgroups and Mailing Lists
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.misc,news.groups
+Subject: Changes to A Guide to Social Newsgroups and Mailing Lists
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.misc
+Subject: Changes to Introduction to news.announce
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.misc
+Subject: Changes to Rules for posting to Usenet
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin,news.misc
+Subject: Changes to What is Usenet?
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin,news.misc
+Subject: Changes to USENET Software: History and Sources
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.misc
+Subject: Changes to Hints on writing style for Usenet
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.misc
+Subject: Changes to List of Active Newsgroups
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.admin
+Subject: Changes to How to Construct the Mailpaths File
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin,news.misc
+Subject: Changes to How to Get Information about Networks
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.misc
+Subject: Changes to Regional Newsgroup Hierarchies
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.misc
+Subject: Changes to List of Moderators
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.misc,news.groups,news.admin
+Subject: Changes to How to Create a New Newsgroup
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.misc
+Subject: Changes to A Primer on How to Work With the Usenet Community
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.misc
+Subject: Changes to Answers to Frequently Asked Questions
+Frequency: every 4-6 weeks
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.groups,news.lists,news.admin
+Subject: USENET FLOW ANALYSIS REPORT FOR *** **
+Frequency: monthly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.groups,news.lists,news.admin
+Subject: USENET READERSHIP SUMMARY REPORT FOR *** **
+Frequency: monthly
+
+From: reid@decwrl.DEC.COM (Brian Reid)
+Newsgroups: news.groups,news.lists,news.admin
+Subject: arbitron data from these sites has expired
+Frequency: monthly
+
+From: newsstats@uunet.UU.NET
+Newsgroups: news.lists
+Subject: Top 25 News Groups for the last 2 weeks
+Frequency: bi-weekly
+
+From: newsstats@uunet.UU.NET
+Newsgroups: news.lists
+Subject: Top 25 News Submitters by Site by Kbytes for the last 2 weeks
+Frequency: bi-weekly
+
+From: newsstats@uunet.UU.NET
+Newsgroups: news.lists
+Subject: Top 25 News Submitters by Site by number of articles for the last 2 weeks
+Frequency: bi-weekly
+
+From: newsstats@uunet.UU.NET
+Newsgroups: news.lists
+Subject: Top 25 News Submitters by User by Kbytes for the last 2 weeks
+Frequency: bi-weekly
+
+From: newsstats@uunet.UU.NET
+Newsgroups: news.lists
+Subject: Top 25 News Submitters by User by number of articles for the last 2 weeks
+Frequency: bi-weekly
+
+From: newsstats@uunet.UU.NET
+Newsgroups: news.lists
+Subject: Total traffic through uunet for the last 2 weeks
+Frequency: bi-weekly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists
+Subject: USENET FLOW ANALYSIS for *** **: Top 1000 sites
+Frequency: monthly
+
+From: reid@decwrl.DEC.COM (Brian Reid)
+Newsgroups: news.lists
+Subject: USENET Readership report for *** **
+Frequency: monthly
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.admin
+Subject: How to Construct the Mailpaths File
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.announce.newusers
+Subject: Publicly Accessible Mailing Lists Part I
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.announce.newusers
+Subject: Publicly Accessible Mailing Lists Part II
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.announce.newusers
+Subject: Publicly Accessible Mailing Lists Part III
+Frequency: every 4-6 weeks
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists,news.groups
+Subject: BOTTOM 20 NEWSGROUPS IN ORDER BY POPULARITY (*** **)
+Frequency: monthly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists,news.groups
+Subject: BOTTOM 20 NEWSGROUPS IN ORDER BY PROPAGATION (*** **)
+Frequency: monthly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists,news.groups
+Subject: TOP 40 NEWSGROUPS IN ORDER BY AMOUNT OF CROSSPOSTING (*** **)
+Frequency: monthly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists,news.groups
+Subject: TOP 40 NEWSGROUPS IN ORDER BY PER-READER COST (*** **)
+Frequency: monthly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists,news.groups
+Subject: TOP 40 NEWSGROUPS IN ORDER BY POPULARITY (*** **)
+Frequency: monthly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists,news.groups
+Subject: TOP 40 NEWSGROUPS IN ORDER BY TRAFFIC VOLUME (*** **)
+Frequency: monthly
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.announce.newusers
+Subject: Alternative Newsgroup Hierarchies
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.announce.newusers
+Subject: List of Active Newsgroups
+Frequency: every 4-6 weeks
+
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.lists,news.groups,news.announce.newusers
+Subject: List of Moderators
+Frequency: every 4-6 weeks
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.lists.ps-maps,comp.sources.d,news.admin
+Subject: "inpaths.c" (last updated *****)
+Frequency: monthly
+
+From: reid@decwrl.dec.com (Brian Reid)
+Newsgroups: news.misc
+Subject: USENET PostScript map *****
+Frequency: monthly
+
+From: reid@decwrl.DEC.COM (Brian Reid)
+Newsgroups: news.misc,news.admin,misc.misc,news.groups
+Subject: USENET Readership summary for *** ** posted
+Frequency: monthly
+
+From: Bill Wohler <wohler@sap-ag.de>
+Newsgroups: news.software.nn
+Subject: NN Frequently Asked Questions (FAQ) with Answers
+Frequency: monthly
+
+From: nixpub@lgnp1.LS.COM (NIXPUB Coordinator)
+Newsgroups: pubnet.nixpub,comp.misc,alt.bbs
+Subject: Nixpub Posting (long)
+Frequency: monthly
+
+From: nixpub@lgnp1.LS.COM (NIXPUB Coordinator)
+Newsgroups: pubnet.nixpub,comp.misc,alt.bbs
+Subject: Nixpub Posting (short)
+Frequency: monthly
+
+From: conty@cbnewsl.att.com (Enrique Conty)
+Newsgroups: rec.arts.anime
+Subject: THE ANIME FREQUENTLY-ASKED-QUESTIONS LIST
+Frequency: monthly
+	
+From: conty@cbnewsl.att.com (Enrique Conty)
+Newsgroups: rec.arts.anime
+Subject: THE ANIME RESOURCES LIST
+Frequency: monthly
+
+From: conty@cbnewsl.att.com (Enrique Conty)
+Newsgroups: rec.arts.anime
+Subject: WELCOME TO REC.ARTS.ANIME
+Frequency: monthly
+
+From: ecl@cbnewsj.att.com (Evelyn C. Leeper)
+Newsgroups: rec.arts.books
+Subject: Frequently Asked Questions List (rec.arts.books)
+Frequency: quarterly
+
+From: ecl@cbnewsj.att.com (Evelyn C. Leeper)
+Newsgroups: rec.arts.books
+Subject: Sherlock Holmes Booklist *.*
+Frequency: quarterly
+
+From: ecl@cbnewsj.ATT.COM (Evelyn C. Leeper)
+Newsgroups: rec.arts.cinema
+Subject: Academy Award nominees
+Frequency: annually
+
+From: ecl@cbnewsj.ATT.COM (Evelyn C. Leeper)
+Newsgroups: rec.arts.cinema
+Subject: Academy Award winners
+Frequency: annually
+:From: esti@tank.uchicago.edu (Paul A. Estin)
+Newsgroups: rec.arts.comics
+Subject: Welcome to Rec.arts.comics
+Frequency: monthly
+
+From: kilburn@cs.wisc.edu (Dora Kilburn)
+Newsgroups: rec.arts.drwho
+Subject: Frequently Asked Questions
+Frequency: monthly
+
+From: kilburn@cs.wisc.edu (Dora Kilburn)
+Newsgroups: rec.arts.drwho
+Subject: Doctor Who Episodes (monthly posting)
+Frequency: monthly
+
+From: dant@logos.wr.tek.com (Dan Tilque)
+Newsgroups: rec.arts.sf-lovers
+Subject: WELCOME TO SF-LOVERS
+Frequency: monthly
+
+From: ecl@cbnewsj.att.com (Evelyn C. Leeper)
+Newsgroups: rec.arts.movies
+Subject: Frequently Asked Questions List (rec.arts.movies)
+Frequency: quarterly
+
+From: hackman@pnet51.orb.mn.org (Otto "Hack-Man" Heuer)
+Newsgroups: rec.arts.startrek
+Subject: Star Trek Actors' Other Roles
+Frequency: monthly
+
+From: trek-info@dweeb.fx.com (Jim Griffith - Moderator)
+Subject: Introduction to rec.arts.startrek.info
+Newsgroups: rec.arts.startrek.info
+Frequency: monthly
+
+From: trek-info@dweeb.fx.com (Jim Griffith - Moderator)
+Subject: Guidelines For Submitting Articles
+Newsgroups: rec.arts.startrek.info
+Frequency: monthly
+
+From: trek-info@dweeb.fx.com (Jim Griffith - Moderator)
+Subject: List of Upcoming Conventions
+Newsgroups: rec.arts.startrek.info
+Frequency: monthly
+
+From: ames!scubed!pnet51.orb.mn.org!hackman (-8 Otto "Hack-Man" Heuer 8-)
+Subject: FREQUENTLY ASKED QUESTIONS LIST
+Newsgroups: rec.arts.startrek.info
+Frequency: monthly
+
+From: cwayne@triton.unm.edu (Chris Wayne)
+Subject: Station List (*)
+Newsgroups: rec.arts.startrek.info
+Frequency: monthly
+
+From: mholtz@sactoh0.sac.ca.us (Mark A. Holtz)
+Subject: Star Trek TV List of Lists (*)
+Newsgroups: rec.arts.startrek.info
+Frequency: monthly
+
+From: trek-info@dweeb.fx.com (Jim Griffith - Moderator)
+Subject: Administrivia 
+Newsgroups: rec.arts.startrek.info
+Frequency: every now and then
+
+From: welty@lewis.crd.ge.com (richard welty)
+Newsgroups: rec.autos,rec.autos.tech,rec.autos.sport
+Subject: Welcome to Rec.Autos.*
+Frequency: monthly
+
+From: iglesias@draco.acs.uci.edu (Mike Iglesias)
+Newsgroup: rec.bicycles
+Subject: Frequently Asked Questions for rec.bicycles
+Frequency: monthly
+
+From: sean@stout.ism.isc.com
+Newsgroups: rec.guns
+Subject: Posting guidelines for rec.guns
+Frequency: monthly
+
+From: funny-request@looking.on.ca (Brad Templeton)
+Newsgroups: rec.humor.funny
+Subject: Editorial Policy on Offensive Jokes -- Monthly Posting
+Frequency: monthly
+
+From: funny-request@looking.on.ca (Brad Templeton)
+Newsgroups: rec.humor.funny
+Subject: Guidelines for Submissions -- Monthly Posting
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: rec.backcountry
+Subject: [l/m **/**] Distilled wisdom (1/6) disclaimer to remember and ethic
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: rec.backcountry
+Subject: [l/m **/**] Distilled wisdom (2/6) sources
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: rec.backcountry
+Subject: [l/m **/**] Distilled wisdom (3/6) learning
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: rec.backcountry
+Subject: [l/m **/**] Distilled wisdom (4/6) learning (2)
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: rec.backcountry
+Subject: [l/m **/**] Distilled non-wisdom (5/6) summary of past topics
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: rec.backcountry
+Subject: [l/m **/**] {under construction} (6/6)
+Frequency: monthly
+
+From: rsk@gynko.circ.upenn.edu (Rich Kulawiec)
+Newsgroups: rec.boats.paddle
+Subject: Frequently asked questions and answers [last updated */**/**]
+Frequency: monthly
+
+From: rsk@gynko.circ.upenn.edu (Rich Kulawiec)
+Newsgroups: rec.boats.paddle
+Subject: Whitewater outfitter/dealer address list (*/**/**)
+Frequency: monthly
+
+From: aem@mthvax.cs.miami.edu (a.e.mossberg)
+Newsgroups: rec.food.recipes
+Subject: MONTHLY: General Information [last updated ***]
+Frequency: monthly
+
+From: pals@inland.com (Randy Pals) 
+Newsgroups: rec.games.ches
+Subject: FAQ: Answers to Frequently Asked Questions
+Frequency: monthly
+
+From: muir@postgres.berkeley.edu (David Muir Sharnoff)
+Newsgroups: rec.games.empire
+Subject: empire versions -- monthly posting
+Frequency: monthly
+
+From: funny-request@looking.on.ca (Brad Templeton)
+Newsgroups: rec.humor.funny
+Subject: Introduction to REC.HUMOR.FUNNY -- Monthly Posting
+Frequency: monthly
+
+From: Chuq Von Rospach <chuq@apple.com>
+Newsgroups: rec.mag.otherrealms 
+Subject: Introduction to rec.mag.otherrealms
+Frequency: tri-weekly
+
+From: linimon@nominil.lonestar.org (Mark Linimon)
+Newsgroups: rec.music.bluenote
+Subject: Welcome to rec.music.bluenote!
+Frequency: monthly
+
+From: linimon@nominil.lonestar.org (Mark Linimon)
+Newsgroups: rec.music.bluenote
+Subject: Rec.music.bluenote: history, common topics, frequently asked questions
+Frequency: monthly
+
+From: bill@flutter.tv.tek.com (William K. McFadden)
+Newsgroups: rec.music.makers,rec.audio
+Subject: LIST OF MUSICAL INSTRUMENT SPEAKERS
+Frequency: monthly
+
+From: rsk@gynko.circ.upenn.edu (Rich Kulawiec)
+Newsgroups: rec.music.makers,rec.music.bluenote
+Subject: Listing of open club jam sessions as of */*/*
+Frequency: monthly
+
+From: rsk@gynko.circ.upenn.edu (Rich Kulawiec)
+Newsgroups: rec.music.makers,rec.music.synth
+Subject: Music Equipment Mail/Phone List
+Frequency: monthly
+
+From: datta@vacs.uwp.wisc.edu (Dave Datta)
+Newsgroups: rec.music.cd, rec.music.misc
+Subject: Frequently Asked Questions
+Frequency: Monthly or if more than 3 of the questions are posted.
+
+From: datta@vacs.uwp.wisc.edu (Dave Datta)
+Newsgroups: rec.music.cd, rec.music.misc
+Subject: List of musical stores/clubs
+Frequency: Monthly
+
+From: prince@pawl.rpi.edu (Ron Buckmire)
+Newsgroups: rec.music.misc
+Subject: Billboard Top 10
+Frequency: weekly
+
+From: eerke@cs.kun.nl (Eerke Boiten)
+Newsgroups: rec.music.misc
+Subject: Dutch Top 10 (singles)
+Frequency: weekly
+
+From: eerke@cs.kun.nl (Eerke Boiten)
+Newsgroups: rec.music.misc
+Subject: Dutch Top 10 (albums)
+Frequency: weekly
+
+From: owen@euclid.enet.dec.com (Steve Owen)
+Newsgroups: rec.music.misc,alt.rock-n-roll
+Subject: List of Musical Mailing Lists
+Frequency: monthly, or as heavy changes require
+
+From: rsk@gynko.circ.upenn.edu (Rich Kulawiec)
+Newsgroups: rec.music.misc,rec.arts.sf-lovers
+Subject: SF-references-in-music List
+Frequency: annually
+
+From: ralph@mtunq.att.com (Ralph Brandi)
+Newsgroups: rec.radio.shortwave
+Subject: Welcome to rec.radio.shortwave (Introduction)
+Frequency: monthly
+
+From: ralph@mtunq.att.com (Ralph Brandi)
+Newsgroups: rec.radio.shortwave
+Subject: Welcome to rec.radio.shortwave (Scanners)
+Frequency: monthly
+
+From: ralph@mtunq.att.com (Ralph Brandi)
+Newsgroups: rec.radio.shortwave
+Subject: Welcome to rec.radio.shortwave (Shortwave)
+Frequency: monthly
+
+From: hooppoll@terminus.UUCP (Basketball Poll)
+Newsgroups: rec.sport.basketball
+Subject: Basketball poll
+Frequency:  weekly during college basketball season
+
+From: hooppoll@terminus.UUCP (Basketball Poll)
+Newsgroups: rec.sport.basketball
+Subject: NCAA Division I-A Team list
+Frequency:  weekly during college basketball season
+
+From: footpoll@terminus.UUCP (Football Poll)
+Newsgroups: rec.sport.football
+Subject: Football poll
+Frequency:  weekly during college football season
+
+From: footpoll@terminus.UUCP (Football Poll)
+Newsgroups: rec.sport.football
+Subject: NCAA Division I-A Team list
+Frequency:  weekly during college football season
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: rec.travel
+Subject: Simple suggestions for travel (net reminders really)
+Frequency: three times a year
+
+From: roche@cs.rochester.edu (Jim Roche)
+Newsgroups: rec.woodworking
+Subject:  Frequently Asked rec.woodworking questions (last updated */*/*)
+Frequency: monthly
+
+From: roche@cs.rochester.edu (Jim Roche)
+Newsgroups: rec.woodworking
+Subject: Changes to Frequently Asked rec.woodworking questions (last updated */*/*)
+Frequency: monthly
+
+From: roche@cs.rochester.edu (Jim Roche)
+Newsgroups: rec.woodworking
+Subject: List of Frequently Requested rec.woodworking addresses (last changed */*/*)
+Frequency: monthly
+
+From: roche@cs.rochester.edu (Jim Roche)
+Newsgroups: rec.woodworking
+Subject: Changes to List of Frequently Requested rec.woodworking addresses (last changed */*/*)
+Frequency: monthly
+
+From: roche@cs.rochester.edu (Jim Roche)
+Newsgroups: rec.woodworking
+Subject: Frequently Requested Tool reviews (last changed */*/*)
+Frequency: monthly
+
+From: alopeziz@maytag.uwaterloo.ca (Alex Lopez-Ortiz)
+Newsgroups: sci.math
+Subject: Frequently Asked Questions
+Frequency: biweekly
+
+From: military@cbnews.att.com (Bill Thacker)
+Newsgroups: sci.military
+Subject: How to Post to the sci.military Newsgroup
+Frequency: monthly
+
+From: military@cbnews.att.com (Bill Thacker)
+Newsgroups: sci.military
+Subject: sci.military guidelines and etiquette
+Frequency: monthly
+
+From: wollman@griffin.uvm.edu (Garrett A. Wollman)
+Newsgroups: sci.space,alt.tla
+Subject: Three-Letter Acronym (TLA) Update Program (UP)
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: sci.space
+Subject: [l/m **/**] Reminders for Old Farts
+Frequency: monthly
+
+From: eugene@amelia.nas.nasa.gov (Eugene N. Miya)
+Newsgroups: soc.culture.japan
+Subject: [l/m **/**] A point of reference for s.c.j.
+Frequency: monthly
+
+From: mludwig@bonnie.ics.uci.edu (Michael Ludwig)
+Newsgroups: soc.net-people
+Subject: Tips on using soc.net-people [l/m **/**]
+Frequency: monthly
+
+From: tp@mccall.com
+Newsgroups: vmsnet.admin
+Subject: Monthly checkgroups posting
+Frequency: monthly
+
+From: tp@mccall.com
+Newsgroups: vmsnet.announce.newusers,comp.os.vms
+Subject: Monthly info posting: What is VMSnet?
+Frequency: monthly
+
+From: tp@mccall.com
+Newsgroups: vmsnet.announce.newusers,comp.os.vms
+Subject: Monthly info posting: VMSnet on Bitnet
+Frequency: monthly
+
+From: tp@mccall.com
+Newsgroups: vmsnet.sources.d,comp.os.vms
+Subject: Monthly info posting: vmsnet.sources archive sites
+Frequency: monthly

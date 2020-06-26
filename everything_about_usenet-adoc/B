@@ -1,0 +1,202 @@
+Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.announce.newusers
+Subject: Rules for posting to Usenet
+Message-ID: <15395@ector.cs.purdue.edu>
+Date: 25 Jul 91 23:15:51 GMT
+Expires: 23 Oct 91 23:15:51 GMT
+Organization: Dept. of Computer Sciences, Purdue Univ.
+Lines: 190
+Approved: spaf@cs.purdue.EDU
+Supersedes: <14691@ector.cs.purdue.edu>
+
+Original-from: mark@stargate.com (Mark Horton)
+[Most recent change: 7  Nov 1990 by spaf@cs.purdue.edu (Gene Spafford)]
+
+This message describes some of the rules of conduct on Usenet.  The rules
+vary depending on the newsgroup.
+
+
+Some newsgroups are intended for discussions and some for announcements
+or queries.  It is not usually a good idea to carry on discussions in
+newsgroups that are designated otherwise.  It is never a good idea to
+carry on "meta-discussions" about whether a given discussion is
+appropriate -- such traffic mushrooms until nobody can find articles
+that belong.  If you are unhappy with what some user said, send him/her
+mail, don't post it.
+
+
+Before posting, think about where your article is going.  If it's
+posted to a "comp", "news", "misc", "soc", "sci", "rec" or "talk"
+newsgroup, it will probably go to the USA, Canada, Europe, Australia,
+and many countries in Asia.  Certain articles are only of local
+interest (e.g. used car ads) and it is inappropriate to post them to
+the whole world.  Use the "Distribution" feature to restrict
+distribution to your local area.  If you don't know how to use this
+feature, read "Frequently Submitted Items" in another article in
+news.announce.newusers. (Note, however, that some sites have broken
+software or improperly configured news systems, so sometimes use of a
+"Distribution" header may not work.)
+
+
+Don't post announcements regarding major news events (e.g. the space
+shuttle has just exploded!) to news groups.  By the time most people
+receive such items, they will long since have been informed by
+conventional media.  If you wish to discuss such an event on the net,
+use the "misc.headlines" newsgroup.
+
+
+Announcement of professional products or services on Usenet is allowed;
+however, since someone else is paying the phone bills for this, it is
+important that it be of overall benefit to Usenet.  Post to the
+appropriate newsgroup -- comp.newprod -- never to a general purpose
+newsgroup such as "misc.misc".  Clearly mark your article as a product
+announcement in the subject.  Never repeat these -- one article per
+product at the most; preferably group everything into one article.
+Advertising hype is especially frowned upon -- stick to technical
+facts.  Obnoxious or inappropriate announcements or articles violating
+this policy will generally be rejected.  This policy is, of course,
+subject to change if it becomes a problem.
+
+
+Some newsgroups are moderated.  In these groups, you cannot post
+directly, either by convention or because the software prevents it.  To
+post to these newsgroups, send mail to the moderator. Examples:
+
+Newsgroup		Moderator	Purpose
+---------		---------	-------
+news.announce.important stargate!announce	Important announcements for everyone 
+comp.std.unix		uunet!std-unix	Unix standards discussion
+comp.std.mumps		plus5!std-mumps	ANSI Mumps standards discussion
+comp.unix		zorba!modunix	Discussion of Unix* features and bugs
+
+Some newsgroups have special purpose rules:
+
+Newsgroup		Rules
+---------		-----
+news.announce.important	Moderated, no direct postings, important things only.
+misc.wanted		Queries, "I want an x", "Anyone want my x?".  No
+			discussions. Don't post to more than one xxx.wanted. 
+			Use the smallest appropriate wanted (e.g. used car
+			ads to nj.wanted.)
+			Requests for sources, termcaps, etc. should go to the
+			"comp.sources.wanted" newsgroup.
+rec.humor		Clean humor only; anything offensive must be rotated;
+			no discussions -- humor only.  Discussions go in
+			rec.humor.d
+rec.arts.movies		Don't post anything revealing part of a movie
+			without marking it (spoiler) in the subject.
+rec.arts.*		Same as movies -- mark spoilers in the subject line.
+news.groups		Discussions about new groups: whether to create
+			them and what to call them.  Don't post yes/no
+			votes, mail them to the author
+misc.test		Use the smallest test group possible, e.g.
+			"test" or "ucb.test".  Say in the body of the
+			message what you are testing.
+
+
+It is perfectly legal to reproduce short extracts of a copyrighted work
+for critical purposes, but reproduction in whole is strictly and
+explicitly forbidden by US and international copyright law.  (Otherwise,
+there would be no way for the artist to make money, and there would
+thus be less motive for people to go to the trouble of making their art
+available at all.  The crime of theft is as serious in this context as
+any other, even though you may not have to pick locks, mask your face,
+or conceal merchandise.)
+
+
+All opinions or statements made in messages posted to Usenet should be
+taken as the opinions of the person who wrote the message.  They do not
+necessarily represent the opinions of the employer of that person, the
+owner of the computer from which the message was posted, or anyone
+involved with Usenet or the underlying networks of which Usenet is made
+up.  All responsibility for statements made in Usenet messages rests
+with the individual posting the message.
+
+
+Posting of information on Usenet is to be viewed as similar to
+publication.  Because of this, do not post instructions for how to do
+some illegal act (such as jamming radar or obtaining cable TV service
+illegally); also do not ask how to do illegal acts by posting to the
+net.
+
+
+If you have a standard signature you like to append to your articles,
+put it in a file called .signature in your home directory.  "postnews"
+and "inews" will automatically append it to your article.  Please keep
+your signatures concise, as people do not appreciate seeing lengthy
+signatures, nor paying the phone bills to repeatedly transmit them.  2
+or 3 lines are usually plenty.  Sometimes it is also appropriate to add
+another line or two for addresses on other major networks where you can
+be reached (e.g., Internet, Bitnet).  Long signatures are
+definitely frowned upon.  DO NOT include drawings, pictures, maps, or
+other graphics in your signature -- it is not the appropriate place
+for such material and is viewed as rude by other readers.
+
+
+If you post an article and remember something you've left out or
+realize you've made a factual error, you can cancel the article and (if
+canceled quickly enough) prevent its distribution.  Then you can
+correct whatever was wrong and post a new copy.  In "rn" and
+"readnews", an article that you posted can be canceled with the "C"
+command.  Be aware, however, that some people may have already read the
+incorrect version so the sooner you cancel something, the better.
+
+
+If the news system rejects a followup due to "more quoted lines than
+new text," please do not use "filler" lines to make up for this.
+Instead, if after careful editing, you have more to quote than to
+write, change the citation character.  For example, in the display
+editor vi, you could use the incantation:
+	:%s/^>/</
+Be careful not to do the very similar:
+	:%s/>/</
+which will affect >'s that are not being used as the citation
+character.  (In particular, it will damage the "References" line in the
+article header.)
+
+
+In preparing an article, be aware that other people's machines are
+not the same as yours.  The following is a list of things to keep
+in mind:
+ * Except for source, keep your lines under 80 characters, and
+   under 72 if possible.  (most editors have a fill or format
+   mode that will do this for you automatically)
+ * Right justified text may look "prettier" in some sense, but it
+   is almost always harder to read than leaving ragged right
+   margins; don't justify your articles.
+ * Most special control characters will not work for most readers.
+   In fact, the  space character is about the only one
+   you can be sure will work consistently. Even tabs aren't always
+   the same from machine to machine, and should be avoided.  Many mail
+   agents will strip or remap control characters.
+ * Pictures and diagrams should not use embedded tabs.
+ * Refer to articles by Message-ID, and never by article number.
+ * What you think is the previous article is unlikely to be so elsewhere.
+ * Submissions in a single case (all upper or all lower) are
+   difficult to read.
+
+
+In general, when a mailing to somebody fails, DON'T post a message
+about it!  Think for a moment:  you are trying to send something to
+someone on ONE system.  Your message might go through (at most) TEN
+systems on the way there.  Posting a message in the news sends it to
+over 7800 systems throughout the world!  There is no way to justify
+adding to the news load of nearly 8000 machines simply because you
+cannot determine how to get your mail through.
+
+If your message is important, contact someone who knows more about the
+mail system and who might be able to help you get your message
+through.  Your local system administrator, for instance, or the admin
+of the next site "upstream," might be able to help. You can also send
+mail to "postmaster" at one of the major Usenet sites.  Almost all of
+these people would rather see an occasional plea for help in their
+mailbox than read another broadcast in the news system.  If your
+message is *really* important, pick up the phone and try to call the
+other person.
+
+-- 
+Gene Spafford
+NSF/Purdue/U of Florida  Software Engineering Research Center,
+Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
+Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825

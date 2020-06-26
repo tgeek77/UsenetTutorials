@@ -1,0 +1,76 @@
+Xref: blister news.admin:4316 news.announce.newusers:70
+Path: blister!jtsv16!torsqnt!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!samsung!news.cs.indiana.edu!purdue!spaf
+From: spaf@cs.purdue.EDU (Gene Spafford)
+Newsgroups: news.admin,news.announce.newusers
+Subject: How to Get Information about Networks
+Message-ID: <15411@ector.cs.purdue.edu>
+Date: 25 Jul 91 23:16:17 GMT
+Expires: 23 Oct 91 23:16:16 GMT
+Followup-To: news.admin
+Organization: Dept. of Computer Sciences, Purdue Univ.
+Lines: 62
+Approved: spaf@cs.purdue.EDU
+Supersedes: <14707@ector.cs.purdue.edu>
+
+Original-from: Randall Atkinson <randall@uvaarpa.virginia.edu>
+[Most recent change: 16 Oct 1989 by spaf@cs.purdue.edu (Gene Spafford)]
+
+This is a periodic posting on how to get information about the
+National Science Foundation (NSF) Internet.
+
+The NSFNET Network Service Center (NNSC) makes current documentation
+on the NSFNET available via a mail server and by anonymous ftp.
+
+Because the contents of the documents are constantly being updated,
+this posting only describes how to obtain a current copy rather than
+providing the data directly.
+
+1) Using anonymous FTP:
+   host:             SH.CS.NET
+   username:         anonymous
+   password:         guest
+   directory:        nsfnet		(i.e. type:  cd nsfnet )
+
+The files "help-ftp", "help.1" and "nsfnet-help" will provide you with
+information to get started.
+
+2) Using the mail server: Send mail to the address shown below (either
+   nnsc.nsf.net or sh.cs.net) and leave the "Subject;" line blank.
+   The first line of the message body should contain a "Request:"
+   line, followed by a "Topic:" line, as described below.  You do not
+   need a "Subject:" line, but be sure your mailer puts out a valid
+   "From:" line that the server can respond to!
+
+To obtain current contact information on the NSFNET and its affiliated
+regional networks, send the following mail message to the mail-server:
+"info-server@nnsc.nsf.net":
+
+	Request: NSFNET
+	Topic:   NNSC
+
+To obtain information on how to connect to the Internet through the
+NSFNET or an NSF-affiliated network, send the following mail message
+to the mail-server "info-server@nnsc.nsf.net":
+
+	Request: NSFNET
+	Topic:   CONNECTING           
+
+To obtain information on the documents currently available on the
+NSFNET from the info-server, send the following mail message to the
+mail server "info-server@nnsc.nsf.net":
+
+	Request: NSFNET
+	Topic:   NSFNET-HELP
+
+
+If you need to contact the people at the NNSC directly, you can either
+send mail or call them.  It would be a good idea to read the NSFNET
+documents first though.
+
+	Electronic Mail:  <nnsc@nnsc.nsf.net> 
+        Telephone:        +1 (617) 873-3400.
+-- 
+Gene Spafford
+NSF/Purdue/U of Florida  Software Engineering Research Center,
+Dept. of Computer Sciences, Purdue University, W. Lafayette IN 47907-1398
+Internet:  spaf@cs.purdue.edu	phone:  (317) 494-7825

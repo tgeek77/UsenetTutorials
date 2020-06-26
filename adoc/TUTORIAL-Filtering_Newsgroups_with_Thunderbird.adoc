@@ -2,7 +2,7 @@ Filtering Newsgroups with Thunderbird
 =====================================
 :Author:    Jason Evans
 :Email:     jsevans@big-8.org
-:Date:      22 June 2020
+:Date:      23 June 2020
 :Revision:  1.0
 
 == Description:
@@ -29,10 +29,10 @@ This will allow you to see all threads before they are filtered.
 . Choose an article with a subject that contains "test":
 +
 NOTE: In Thunderbird, the newsgroup area has 3 parts: The *article list*, the *header* which contains the From, Subject, etc, and the *body* of the article.
-+
+
 . In the *_header_* area, right-click on the *_Subject title_* and choose *Create Filter From...*
 +
-You should now see a new pop-up screen called Filter Rules.
+You should now see a new pop-up screen called *Filter Rules*.
 . In the *_Filter Name_* field, choose type *test*:
 . Choose *Match any of the following*:
 . Change the filter rule from to the following:
